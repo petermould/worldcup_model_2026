@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>World Cup 2026 Predictor</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #f5f5f3;
+    color: #0b0b0b;
+    min-height: 100vh;
+    padding: 2rem;
+  }
+
+  .container { max-width: 980px; margin: 0 auto; }
+
+  .header { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 0.5px solid #e0e0de; }
+  .header-top { display: flex; align-items: baseline; gap: 12px; margin-bottom: 6px; }
+  .header h1 { font-size: 26px; font-weight: 500; color: #0b0b0b; }
+  .header-badge { font-size: 11px; background: #e8f5ee; color: #1a7a4a; padding: 3px 10px; border-radius: 20px; border: 0.5px solid #b8dfc8; letter-spacing: .04em; }
+  .header p { font-size: 13px; color: #898781; }
+
+  .kpi-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 1.5rem; }
+
+  .kpi {
+    background: #ffffff;
+    border-radius: 12px;
+    border: 0.5px solid #e0e0de;
+    padding: 1.25rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .kpi::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+  }
+  .kpi.blue::before { background: #2a78d6; }
+  .kpi.green::before { background: #1baf7a; }
+  .kpi.purple::before { background: #7c5cbf; }
+  .kpi.gold::before { background: #f0b429; }
+
+  .kpi-label { font-size: 11px; color: #898781; margin-bottom: 8px; text-transform: uppercase; letter-spacing: .05em; }
+  .kpi-value { font-size: 26px; font-weight: 500; color: #0b0b0b; margin-bottom: 4px; line-height: 1; }
+  .kpi-sub { font-size: 11px; color: #aaa; }
+
+  .section {
+    background: #ffffff;
+    border-radius: 12px;
+    border: 0.5px solid #e0e0de;
+    padding: 1.5rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .section-label {
+    font-size: 11px;
+    font-weight: 500;
+    color: #898781;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    margin-bottom: 1.25rem;
+  }
+
+  .legend { display: flex; gap: 16px; margin-bottom: 1rem; flex-wrap: wrap; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: #898781; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+
+  .method-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .method-card {
+    padding: 1.25rem;
+    background: #f8f8f7;
+    border-radius: 8px;
+    border: 0.5px solid #e8e8e6;
+  }
+  .method-weight { font-size: 32px; font-weight: 500; margin-bottom: 6px; line-height: 1; }
+  .method-name { font-size: 13px; font-weight: 500; color: #0b0b0b; margin-bottom: 6px; }
+  .method-desc { font-size: 12px; color: #898781; line-height: 1.6; }
+
+  .chart-wrap { position: relative; width: 100%; }
+
+  .footer { font-size: 11px; color: #aaa; text-align: center; margin-top: 2rem; padding-top: 1.5rem; border-top: 0.5px solid #e8e8e6; line-height: 1.8; }
+
+  @media (max-width: 640px) {
+    .kpi-row { grid-template-columns: repeat(2, 1fr); }
+    .method-grid { grid-template-columns: 1fr; }
+    body { padding: 1rem; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <div class="header-top">
+      <h1>World Cup 2026 Predictor</h1>
+      <span class="header-badge">Live tournament</span>
+    </div>
+    <p>Monte Carlo simulation &nbsp;·&nbsp; 10,000 runs &nbsp;·&nbsp; Current tournament state &nbsp;·&nbsp; 48 teams</p>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi gold">
+      <div class="kpi-label">Top favourite</div>
+      <div class="kpi-value" style="color:#f0b429">Argentina</div>
+      <div class="kpi-sub">13.6% championship probability</div>
+    </div>
+    <div class="kpi green">
+      <div class="kpi-label">Teams simulated</div>
+      <div class="kpi-value">48</div>
+      <div class="kpi-sub">across 12 groups</div>
+    </div>
+    <div class="kpi blue">
+      <div class="kpi-label">Simulations run</div>
+      <div class="kpi-value">10,000</div>
+      <div class="kpi-sub">per Monte Carlo run</div>
+    </div>
+    <div class="kpi purple">
+      <div class="kpi-label">Backtest result</div>
+      <div class="kpi-value">Argentina</div>
+      <div class="kpi-sub">correctly predicted 2022 winner</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-label">Rating methodology</div>
+    <div class="method-grid">
+      <div class="method-card">
+        <div class="method-weight" style="color:#2a78d6">40%</div>
+        <div class="method-name">xG differential</div>
+        <div class="method-desc">Expected goals scored minus conceded per game, averaged across 2018 and 2022 World Cups</div>
+      </div>
+      <div class="method-card">
+        <div class="method-weight" style="color:#1baf7a">35%</div>
+        <div class="method-name">Squad market value</div>
+        <div class="method-desc">Transfermarkt squad value, log-scaled to normalise the gap between elite and mid-tier nations</div>
+      </div>
+      <div class="method-card">
+        <div class="method-weight" style="color:#7c5cbf">25%</div>
+        <div class="method-name">Tournament form</div>
+        <div class="method-desc">Points earned across last two major tournaments per confederation — World Cup plus regional championship</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-label">Championship probability — current tournament state</div>
+    <div class="legend">
+      <span class="legend-item"><span class="legend-dot" style="background:#2a78d6"></span>top contender (&gt;5%)</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#1baf7a"></span>challenger (2–5%)</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#d0d0ce"></span>outsider (&lt;2%)</span>
+    </div>
+    <div class="chart-wrap" style="height:700px">
+      <canvas id="champChart" role="img" aria-label="Championship probability chart. Argentina leads at 13.6%.">Argentina 13.6%, Brazil 10%, Spain 8.6%, England 8.3%, France 7.3%, Morocco 7.1%</canvas>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-label">Rating breakdown — top 12 teams</div>
+    <div class="legend">
+      <span class="legend-item"><span class="legend-dot" style="background:#2a78d6"></span>xG differential (40%)</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#1baf7a"></span>market value (35%)</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#7c5cbf"></span>form (25%)</span>
+    </div>
+    <div class="chart-wrap" style="height:480px">
+      <canvas id="ratingChart" role="img" aria-label="Rating breakdown chart. Spain leads overall.">Spain leads, followed by Argentina, England, Germany, France, Brazil</canvas>
+    </div>
+  </div>
+
+  <div class="footer">
+    Data sources: FBRef (xG) &nbsp;·&nbsp; Transfermarkt (market values) &nbsp;·&nbsp; Wikipedia (form, penalty records)<br>
+    Built with Python &nbsp;·&nbsp; Poisson match simulation &nbsp;·&nbsp; Monte Carlo method &nbsp;·&nbsp; Real historical penalty records
+  </div>
+
+</div>
+
+<script>
+const champTeams = ['Cabo Verde','Ghana','Australia','Congo DR','Algeria','Bosnia','Egypt','Cote dIvoire','Austria','Sweden','Croatia','Mexico','Norway','Ecuador','Switzerland','Paraguay','Belgium','Senegal','USA','Portugal','Canada','Colombia','Morocco','France','England','Spain','Brazil','Argentina'];
+const champVals  = [0.2,0.2,0.3,0.4,0.9,1.0,1.1,1.1,1.4,1.5,1.6,1.8,1.9,2.5,2.9,3.0,3.1,3.2,3.5,3.7,5.1,5.2,7.1,7.3,8.3,8.6,10.0,13.6];
+const champColors = champVals.map(v => v >= 5 ? '#2a78d6' : v >= 2 ? '#1baf7a' : '#d0d0ce');
+
+new Chart(document.getElementById('champChart'), {
+  type: 'bar',
+  data: { labels: champTeams, datasets: [{ data: champVals, backgroundColor: champColors, borderRadius: 4, borderSkipped: false, barThickness: 18 }] },
+  options: {
+    indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        backgroundColor: '#fff',
+        borderColor: '#e0e0de',
+        borderWidth: 1,
+        titleColor: '#0b0b0b',
+        bodyColor: '#898781',
+        callbacks: { label: c => ' ' + c.raw.toFixed(1) + '% chance of winning' }
+      }
+    },
+    scales: {
+      x: { grid: { color: '#f0f0ee' }, ticks: { color: '#aaa', callback: v => v + '%' }, border: { color: '#f0f0ee' } },
+      y: { grid: { display: false }, ticks: { color: '#0b0b0b', font: { size: 12 } }, border: { display: false } }
+    }
+  }
+});
+
+const ratingTeams = ['Belgium','Canada','USA','Colombia','Morocco','Portugal','Brazil','France','Germany','England','Argentina','Spain'].reverse();
+const xgW = [0.131,0.162,0.135,0.168,0.172,0.176,0.220,0.238,0.270,0.278,0.310,0.348].reverse();
+const mvW = [0.100,0.044,0.074,0.059,0.082,0.164,0.163,0.243,0.148,0.213,0.140,0.193].reverse();
+const fmW = [0.062,0.100,0.062,0.150,0.150,0.075,0.075,0.075,0.062,0.100,0.270,0.200].reverse();
+
+new Chart(document.getElementById('ratingChart'), {
+  type: 'bar',
+  data: {
+    labels: ratingTeams,
+    datasets: [
+      { label: 'xG differential', data: xgW, backgroundColor: '#2a78d6', borderRadius: 0, borderSkipped: false, barThickness: 18 },
+      { label: 'market value',    data: mvW, backgroundColor: '#1baf7a', borderRadius: 0, borderSkipped: false, barThickness: 18 },
+      { label: 'form',            data: fmW, backgroundColor: '#7c5cbf', borderRadius: { topRight: 4, bottomRight: 4 }, borderSkipped: false, barThickness: 18 }
+    ]
+  },
+  options: {
+    indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        backgroundColor: '#fff',
+        borderColor: '#e0e0de',
+        borderWidth: 1,
+        titleColor: '#0b0b0b',
+        bodyColor: '#898781',
+        callbacks: { label: c => ' ' + c.dataset.label + ': ' + (c.raw * 100).toFixed(1) + '%' }
+      }
+    },
+    scales: {
+      x: { stacked: true, grid: { color: '#f0f0ee' }, ticks: { color: '#aaa', callback: v => (v*100).toFixed(0)+'%' }, border: { color: '#f0f0ee' } },
+      y: { stacked: true, grid: { display: false }, ticks: { color: '#0b0b0b', font: { size: 12 } }, border: { display: false } }
+    }
+  }
+});
+</script>
+</body>
+</html>
