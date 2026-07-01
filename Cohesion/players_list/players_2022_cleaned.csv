@@ -1,0 +1,815 @@
+tournament_year,player_name,team_country,position,club,fifa_ranking,jersey_number,appearances,goals,assists,dribbles_per90,interceptions_per90,tackles_per90,duels_won_per90,save_pct,clean_sheets_pct,kit_sponsor,dob
+2022,Emiliano Martinez,Argentina,GK,Aston Villa,2,23.0,7.0,0.0,0.0,0.0,0.0,0.0,0.65,46.67,43.0,Adidas,1992-09-02
+2022,Franco Armani,Argentina,GK,River,2,1.0,0.0,,,,,,,,,Adidas,1986-10-16
+2022,Geronimo Rulli,Argentina,GK,Villarreal,2,12.0,0.0,,,,,,,,,Adidas,1992-05-20
+2022,Nicolas Otamendi,Argentina,DF,Benfica,2,19.0,7.0,0.0,1.0,0.33,1.17,1.3,7.17,,,Adidas,1988-02-12
+2022,Marcos Acuna,Argentina,DF,Sevilla,2,8.0,6.0,0.0,0.0,1.45,0.48,2.9,7.97,,,Adidas,1991-10-28
+2022,Nicolas Tagliafico,Argentina,DF,Lyon,2,3.0,6.0,0.0,0.0,0.48,2.17,1.69,5.07,,,Adidas,1992-08-31
+2022,German Pezzella,Argentina,DF,Real Betis,2,6.0,3.0,0.0,0.0,0.0,0.0,0.0,3.16,,,Adidas,1991-06-27
+2022,Nahuel Molina,Argentina,DF,Atletico Madrid,2,26.0,7.0,1.0,1.0,0.32,0.47,1.42,1.58,,,Adidas,1998-04-06
+2022,Gonzalo Montiel,Argentina,DF,Sevilla,2,4.0,4.0,0.0,0.0,0.77,0.77,2.31,5.39,,,Adidas,1997-01-01
+2022,Juan Foyth,Argentina,DF,Villarreal,2,2.0,1.0,0.0,0.0,,0.0,0.0,,,,Adidas,1998-01-12
+2022,Cristian Romero,Argentina,DF,Tottenham,2,13.0,7.0,0.0,0.0,0.16,0.49,0.82,5.09,,,Adidas,1998-04-27
+2022,Lisandro Martinez,Argentina,DF,Manchester United,2,25.0,5.0,0.0,0.0,0.3,0.9,1.5,4.19,,,Adidas,1998-01-18
+2022,Leandro Paredes,Argentina,MF,Juventus,2,5.0,5.0,0.0,0.0,0.4,1.21,4.02,9.24,,,Adidas,1994-06-29
+2022,Rodrigo De Paul,Argentina,MF,Atletico Madrid,2,7.0,7.0,0.0,0.0,0.6,1.05,1.79,4.64,,,Adidas,1994-05-24
+2022,Guido Rodriguez,Argentina,MF,Real Betis,2,18.0,1.0,0.0,0.0,0.0,0.0,3.16,6.32,,,Adidas,1994-04-12
+2022,Exequiel Palacios,Argentina,MF,Bayer Leverkusen,2,14.0,3.0,0.0,0.0,0.0,3.83,1.91,7.66,,,Adidas,1998-10-05
+2022,Alexis Mac Allister,Argentina,MF,Brighton,2,20.0,6.0,1.0,1.0,0.97,0.49,1.46,5.85,,,Adidas,1998-12-24
+2022,Enzo Fernandez,Argentina,MF,Benfica,2,24.0,7.0,1.0,1.0,0.8,0.48,3.52,7.83,,,Adidas,2001-01-17
+2022,Alejandro Gomez,Argentina,MF,Atlanta United,2,17.0,2.0,0.0,0.0,0.83,0.83,1.65,8.26,,,Adidas,2001-04-26
+2022,Lionel Messi 🐐,Argentina,FW,PSG,2,10.0,7.0,7.0,3.0,3.78,0.0,0.65,6.39,,,Adidas,1987-06-24
+2022,Lautaro Martinez,Argentina,FW,Inter,2,22.0,6.0,0.0,0.0,1.89,0.38,0.0,6.81,,,Adidas,1997-08-22
+2022,Paulo Dybala,Argentina,FW,Roma,2,21.0,2.0,0.0,0.0,5.62,0.0,,,,,Adidas,1993-11-15
+2022,Thiago Almada,Argentina,FW,Inter,2,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Adidas,
+2022,Julian Alvarez,Argentina,FW,Manchester City,2,9.0,7.0,4.0,0.0,0.58,0.0,0.77,1.93,,,Adidas,2000-01-31
+2022,Angel Di Maria,Argentina,FW,Juventus,2,11.0,5.0,1.0,1.0,6.83,0.31,0.93,7.14,,,Adidas,1988-02-14
+2022,Angel Correa,Argentina,FW,Atletico Madrid,2,15.0,1.0,0.0,0.0,0.0,0.0,,,,,Adidas,
+2022,Hugo Lloris,France,GK,Tottenham,3,1.0,6.0,,,,,,1.1,70.83,17.0,Nike,1986-12-26
+2022,Alphonse Areola,France,GK,West Ham United,3,23.0,,,,,,,,,,Nike,1993-02-27
+2022,Steve Mandanda,France,GK,Rennes,3,16.0,1.0,,,,,,0.0,66.67,0.0,Nike,1985-03-28
+2022,Benjamin Pavard,France,DF,Bayern Munich,3,2.0,1.0,0.0,0.0,0.0,1.01,0.0,0.0,,,Nike,1996-03-28
+2022,Jules Kounde,France,DF,Barcelona,3,5.0,6.0,0.0,0.0,0.56,1.12,2.06,4.87,,,Nike,1998-11-12
+2022,Raphael Varane,France,DF,Man Utd,3,4.0,6.0,0.0,0.0,0.17,1.04,0.17,1.9,,,Nike,1993-04-25
+2022,Axel Disasi,France,DF,PSG,3,3.0,3.0,0.0,0.0,2.0,2.0,4.0,14.0,,,Nike,1998-03-11
+2022,William Saliba,France,DF,Arsenal,3,17.0,1.0,0.0,0.0,3.33,0.0,0.0,6.67,,,Nike,2001-03-24
+2022,Theo Hernandez,France,DF,AC Milan,3,22.0,6.0,1.0,2.0,0.35,0.71,2.83,8.68,,,Nike,1994-10-06
+2022,Lucas Hernandez,France,DF,Bayern Munich,3,21.0,1.0,0.0,0.0,0.0,0.0,6.92,6.92,,,Nke,1996-02-14
+2022,Ibrahima Konate,France,DF,Liverpool,3,24.0,5.0,0.0,0.0,0.0,2.16,4.62,8.94,,,Nike,1999-05-25
+2022,Dayot Upamecano,France,DF,Bayern Munich,3,18.0,5.0,0.0,0.0,0.0,1.12,2.06,5.25,,,Nike,1998-10-27
+2022,Adrien Rabiot,France,MF,Juventus,3,14.0,6.0,1.0,1.0,0.75,1.86,2.24,8.95,,,Nike,1995-04-03
+2022,Aurelien Tchouaméni,France,MF,Real Madrid,3,8.0,7.0,1.0,0.0,0.72,2.02,1.59,4.91,,,Nike,2000-01-27
+2022,Youssouf Fofana,France,MF,Monaco,3,19.0,6.0,0.0,0.0,0.8,1.21,3.21,5.22,,,Nike,1999-01-10
+2022,Matteo Guendouzi,France,MF,Marseille,3,6.0,1.0,0.0,0.0,0.0,0.0,1.14,4.56,,,Nike,1999-04-14
+2022,Jordan Veretout,France,MF,Marseille,3,15.0,1.0,0.0,0.0,0.0,0.0,2.86,2.86,,,Nike,1999-03-01
+2022,Eduardo Camavinga,France,MF,Real Madrid,3,25.0,2.0,0.0,0.0,1.94,1.94,9.06,17.48,,,Nike,2002-11-10
+2022,Kingsley Coman,France,FW,Bayern Munich,3,20.0,6.0,0.0,0.0,4.91,1.64,1.64,8.73,,,Nike,1996-06-13
+2022,Kylian Mbappe,France,FW,PSG,3,10.0,7.0,8.0,2.0,7.24,0.0,0.0,5.12,,,Nike,1998-12-20
+2022,Olivier Giroud,France,FW,AC Milan,3,9.0,6.0,4.0,0.0,0.0,0.21,0.21,9.12,,,Nike,
+2022,Antoine Griezmann,France,FW,Atletico Madrid,3,7.0,7.0,0.0,3.0,1.51,1.34,2.34,6.19,,,Nike,1991-03-21
+2022,Ousmane Dembele,France,FW,Barcelona,3,11.0,7.0,0.0,2.0,3.9,0.62,2.47,5.75,,,Nike,1997-05-15
+2022,Randal Kolo Muani,France,FW,Eintracht Frankfurt,3,12.0,3.0,1.0,0.0,3.5,0.5,3.5,16.5,,,Nike,1998-12-05
+2022,Marcus Thuram,France,FW,Borussia Monchengladbach,3,26.0,5.0,1.0,2.0,5.55,0.0,1.85,18.49,,,Nike,1997-08-06
+2022,Dominik Livakovic,Croatia,GK,Dinamo Zagreb,7,1.0,7.0,,,,,,0.26,78.12,28.0,Nike,1995-01-09
+2022,Ivica Ivusic,Croatia,GK,Osijek,7,23.0,,,,,,,,,,Nike,1995-02-01
+2022,Ivo Grbic,Croatia,GK,Atletico Madrid,7,12.0,,,,,,,,,,Nike,1996-01-18
+2022,Domagoj Vida,Croatia,DF,AEK Athens,7,21.0,,,,,,,,,,Nike,1989-04-29
+2022,Dejan Lovren,Croatia,DF,Zenit,7,6.0,6.0,0.0,1.0,0.0,1.38,0.9,6.34,,,Nike,1989-07-05
+2022,Borna Barisic,Croatia,DF,Rangers,7,3.0,1.0,0.0,0.0,0.0,0.0,0.75,11.25,,,Nike,1992-11-10
+2022,Josip Juranovic,Croatia,DF,Celtic,7,22.0,6.0,0.0,1.0,0.3,0.3,1.8,3.15,,,Nike,1995-08-16
+2022,Borna Sosa,Croatia,DF,Stuttgart,7,19.0,5.0,0.0,0.0,0.85,0.42,2.96,5.5,,,Nike,1998-01-21
+2022,Josko Gvardiol,Croatia,DF,RB Leipzig,7,20.0,7.0,1.0,0.0,0.13,1.57,1.3,3.0,,,Nike,2002-01-23
+2022,Josip Stanisic,Croatia,DF,Bayern Munich,7,2.0,1.0,0.0,0.0,0.0,1.0,3.0,7.0,,,Nike,2000-04-02
+2022,Martin Erlic,Croatia,DF,Sassuolo,7,5.0,,,,,,,,,,Nike,1998-01-24
+2022,Josip Sutalo,Croatia,DF,Dinamo Zagreb,7,24.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,2000-02-28
+2022,Luka Modric,Croatia,MF,Real Madrid,7,10.0,7.0,0.0,0.0,1.37,1.23,2.06,5.35,,,Nike,1985-09-09
+2022,Mateo Kovacic,Croatia,MF,Chelsea,7,8.0,7.0,0.0,0.0,2.39,0.56,3.38,7.31,,,Nike,1994-05-06
+2022,Marcelo Brozovic,Croatia,MF,Inter,7,11.0,6.0,0.0,0.0,0.97,0.65,2.11,6.01,,,Nike,1992-11-16
+2022,Mario Pasalic,Croatia,MF,Atalanta,7,15.0,7.0,0.0,0.0,1.35,1.01,2.36,7.08,,,Nike,1995-02-09
+2022,Nikola Vlasic,Croatia,MF,Torino,7,13.0,6.0,0.0,0.0,2.18,0.44,0.44,6.11,,,Nike,1997-10-04
+2022,Lovro Majer,Croatia,MF,Rennes,7,7.0,7.0,1.0,0.0,1.43,0.71,2.14,4.29,,,Nike,1998-01-17
+2022,Kristijan Jakic,Croatia,MF,Eintracht Frankfurt,7,26.0,1.0,,,,,,,,,Nike,1997-05-14
+2022,Luka Sucic,Croatia,MF,Red Bull Salzburg,7,25.0,,,,,,,,,,Nike,2002-09-08
+2022,Ivan Perisic,Croatia,FW,Tottenham,7,4.0,7.0,1.0,3.0,1.61,0.94,0.8,6.03,,,Nike,1989-02-02
+2022,Andrej Kramaric,Croatia,FW,Hoffenheim,7,9.0,7.0,2.0,0.0,1.31,0.0,0.56,2.06,,,Nike,1991-06-19
+2022,Bruno Petkovic,Croatia,FW,Dinamo Zagreb,7,16.0,6.0,1.0,0.0,1.17,0.0,2.35,14.48,,,Nike,1997-09-16
+2022,Mislav Orsic,Croatia,FW,Dinamo Zagreb,7,18.0,6.0,1.0,2.0,1.71,0.0,1.71,2.28,,,Nike,1992-12-29
+2022,Ante Budimir,Croatia,FW,Osasuna,7,17.0,2.0,0.0,0.0,0.0,0.0,1.67,,,,Nike,1991-07-22
+2022,Marko Livaja,Croatia,FW,Hajduk Split,7,14.0,6.0,1.0,1.0,0.75,0.37,0.37,4.48,,,Nike,1993-08-26
+2022,Yassine Bounou,Morocco,GK,Sevilla,11,1.0,6.0,,,,,,0.64,58.33,50.0,Puma,1991-04-05
+2022,Munir Mohamedi,Morocco,GK,Al Wehda,11,12.0,1.0,,,,,,,100.0,100.0,Puma,1989-05-10
+2022,Ahmed Reda Tagnaouti,Morocco,GK,Wydad AC,11,22.0,0.0,,,,,,,0.0,0.0,Puma,1996-04-05
+2022,Achraf Hakimi,Morocco,DF,PSG,11,2.0,7.0,0.0,1.0,1.56,1.28,3.84,7.39,,,Puma,1998-11-04
+2022,Noussair Mazraoui,Morocco,DF,Bayern Munich,11,3.0,5.0,0.0,0.0,0.98,0.24,3.42,4.4,,,Puma,1997-11-14
+2022,Nayef Aguerd,Morocco,DF,West Ham,11,5.0,4.0,0.0,0.0,0.0,0.76,1.02,3.56,,,Puma,1996-03-30
+2022,Roman Saiss,Morocco,DF,Besiktas,11,6.0,6.0,0.0,0.0,0.19,0.58,0.77,3.47,,,Puma,1990-03-26
+2022,Achraf Dari,Morocco,DF,Brest,11,20.0,3.0,1.0,0.0,0.0,2.89,0.48,5.78,,,Puma,1999-05-06
+2022,Yahia Attiyat Allah,Morocco,DF,Wydad AC,11,25.0,6.0,0.0,1.0,0.29,0.0,1.15,2.01,,,Puma,1995-03-02
+2022,Badr Benoun,Morocco,DF,Qatar SC,11,24.0,3.0,0.0,0.0,0.0,1.76,0.0,0.0,,,Puma,1993-09-30
+2022,Jawad El Yamiq,Morocco,DF,Valladolid,11,18.0,6.0,0.0,0.0,0.0,1.46,1.17,5.26,,,Puma,1992-02-29
+2022,Sofyan Amrabat,Morocco,MF,Fiorentina,11,4.0,7.0,0.0,0.0,0.14,0.82,2.32,3.68,,,Puma,1996-08-21
+2022,Abdelhamid Sabiri,Morocco,MF,Sampdoria,11,11.0,5.0,1.0,0.0,1.5,2.5,1.5,4.0,,,Puma,1996-11-28
+2022,Selim Amallah,Morocco,MF,Standard Liege,11,15.0,7.0,0.0,0.0,0.66,1.76,2.85,6.37,,,Puma,1996-11-15
+2022,Azzedine Ounahi,Morocco,MF,Angers,11,8.0,7.0,0.0,0.0,1.89,0.95,1.26,5.21,,,Puma,2000-04-19
+2022,Bilal El Khannous,Morocco,MF,Genk,11,23.0,1.0,0.0,0.0,0.0,0.0,0.0,1.61,,,Puma,2004-05-10
+2022,Yahya Jabrane,Morocco,MF,Wydad AC,11,26.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Puma,1991-06-18
+2022,Hakim Ziyech,Morocco,FW,Chelsea,11,7.0,7.0,1.0,1.0,3.67,1.27,1.41,4.65,,,Puma,1993-03-19
+2022,Sofiane Boufal,Morocco,FW,Angers,11,17.0,7.0,0.0,0.0,4.11,0.37,1.87,8.03,,,Puma,1993-09-17
+2022,Zakaria Aboukhlal,Morocco,FW,Toulouse,11,14.0,4.0,1.0,0.0,1.23,1.23,0.0,4.94,,,Puma,2000-02-18
+2022,Anass Zaroury,Morocco,FW,Burnley,11,10.0,1.0,0.0,0.0,,,,,,,Puma,2000-11-07
+2022,Abde Ezzalzouli,Morocco,FW,Osasuna,11,16.0,3.0,0.0,0.0,,,,,,,Puma,2001-12-17
+2022,Ilias Chair,Morocco,FW,QPR,11,13.0,1.0,0.0,0.0,2.05,0.0,2.05,2.05,,,Puma,1997-10-30
+2022,Youssef En-Nesyri,Morocco,FW,Sevilla,11,19.0,7.0,2.0,0.0,1.15,0.16,0.66,8.23,,,Puma,1997-06-01
+2022,Walid Cheddira,Morocco,FW,Bari,11,21.0,2.0,0.0,0.0,1.43,0.0,1.43,7.15,,,Puma,1998-01-22
+2022,Abderrazak Hamdallah,Morocco,FW,Al-Ittihad,11,9.0,4.0,0.0,0.0,4.22,0.0,1.41,,,,Puma,1990-12-17
+2022,Justin Bijlow,Netherlands,GK,Feyenoord,6,13.0,0.0,,,,,,,,,Nike,1998-01-22
+2022,Remko Pasveer,Netherlands,GK,Ajax,6,1.0,0.0,,,,,,,,,Nike,1983-11-08
+2022,Andries Noppert,Netherlands,GK,Heerenveen,6,23.0,5.0,,,,,,,81.82,40.0,Nike,1994-04-07
+2022,Daley Blind,Netherlands,DF,Ajax,6,17.0,5.0,1.0,1.0,0.42,1.06,2.76,4.88,,,Nike,1990-03-09
+2022,Stefan de Vrij,Netherlands,DF,Inter,6,6.0,,,,,,,,,,Nike,1992-02-05
+2022,Virgil van Dijk,Netherlands,DF,Liverpool,6,4.0,5.0,0.0,0.0,0.0,0.75,0.38,9.0,,,Nike,1991-07-08
+2022,Matthijs de Ligt,Netherlands,DF,Bayern Munich,6,3.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,,,Nike,1999-08-12
+2022,Denzel Dumfries,Netherlands,DF,Inter,6,22.0,5.0,1.0,2.0,1.12,1.31,1.5,6.19,,,Nike,1996-04-18
+2022,Nathan Ake,Netherlands,DF,Manchester City,6,5.0,5.0,0.0,0.0,0.0,1.5,1.12,6.0,,,Nike,1995-02-18
+2022,Jurrien Timber,Netherlands,DF,Ajax,6,2.0,4.0,0.0,0.0,,,,,,,Nike,2001-06-17
+2022,Tyrell Malacia,Netherlands,DF,Manchester United,6,16.0,,,,,,,,,,Nike,1999-06-17
+2022,Jeremie Frimpong,Netherlands,DF,Bayer Leverkusen,6,26.0,,,,,,,,,,Nike,2000-12-10
+2022,Frenkie de Jong,Netherlands,MF,Barcelona,6,21.0,5.0,1.0,1.0,1.13,1.13,2.65,7.18,,,Nike,1997-05-12
+2022,Steven Berghuis,Netherlands,MF,Ajax,6,11.0,4.0,0.0,1.0,1.82,0.0,0.91,2.27,,,Nike,1991-12-19
+2022,Maarten de Roon,Netherlands,MF,Atalanta,6,15.0,5.0,0.0,0.0,0.0,0.98,3.42,7.34,,,Nike,1991-03-29
+2022,Teun Koopmeiners,Netherlands,MF,Atalanta,6,20.0,5.0,0.0,1.0,0.41,1.24,4.15,9.12,,,Nike,1998-02-28
+2022,Kenneth Taylor,Netherlands,MF,Ajax,6,24.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,2002-05-16
+2022,Xavi Simons,Netherlands,MF,PSV,6,25.0,1.0,0.0,0.0,0.0,12.86,0.0,,,,Nike,2003-04-21
+2022,Davy Klaassen,Netherlands,MF,Ajax,6,14.0,4.0,1.0,2.0,0.47,0.47,1.41,3.75,,,Nike,
+2022,Memphis Depay,Netherlands,FW,Barcelona,6,10.0,2.0,1.0,0.0,3.88,0.0,1.55,6.21,,,Nike,1994-02-13
+2022,Luuk de Jong,Netherlands,FW,PSV,6,9.0,1.0,0.0,0.0,0.0,0.0,3.21,14.46,,,Nike,1990-08-27
+2022,Steven Bergwijn,Netherlands,FW,Ajax,6,7.0,4.0,0.0,0.0,0.84,0.0,0.42,2.09,,,Nike,1997-10-08
+2022,Vincent Janssen,Netherlands,FW,Antwerp,6,18.0,2.0,0.0,0.0,0.0,0.0,2.09,6.28,,,Nike,1994-06-15
+2022,Wout Weghorst,Netherlands,FW,Besiktas,6,19.0,4.0,2.0,0.0,0.0,0.0,0.0,4.43,,,Nike,1992-08-07
+2022,Cody Gakpo,Netherlands,FW,PSV,6,8.0,5.0,3.0,0.0,1.78,0.59,1.59,5.35,,,Nike,1999-05-07
+2022,Noa Lang,Netherlands,FW,Club Brugge,6,12.0,1.0,0.0,0.0,0.0,12.86,0.0,0.0,,,Nike,1999-06-17
+2022,Jordan Pickford,England,GK,Everton,5,1.0,5.0,,,,,,,63.64,60.0,Nike,1994-03-07
+2022,Nick Pope,England,GK,Newcastle United,5,13.0,,,,,,,,,,Nike,1992-04-19
+2022,Aaron Ramsdale,England,GK,Arsenal,5,23.0,,,,,,,,,,Nike,1998-05-14
+2022,Trent Alexander-Arnold,England,DF,Liverpool,5,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,1998-10-07
+2022,Conor Coady,England,DF,Everton,5,16.0,,,,,,,,,,Nike,1993-02-25
+2022,Eric Dier,England,DF,Tottenham,5,15.0,2.0,0.0,0.0,0.0,0.0,2.65,7.94,,,Nike,1994-01-15
+2022,Harry Maguire,England,DF,Manchester United,5,6.0,5.0,0.0,1.0,0.42,0.84,1.47,8.16,,,Nike,1993-03-05
+2022,Luke Shaw,England,DF,Manchester United,5,3.0,5.0,0.0,1.0,0.42,1.06,0.64,3.18,,,Nike,1995-07-12
+2022,John Stones,England,DF,Manchester City,5,5.0,5.0,0.0,0.0,0.21,0.21,0.41,3.3,,,Nike,1994-05-28
+2022,Kieran Trippier,England,DF,Newcastle United,5,12.0,3.0,0.0,0.0,0.88,0.44,2.63,6.59,,,Nike,1990-09-19
+2022,Kyle Walker,England,DF,Manchester City,5,2.0,3.0,0.0,0.0,0.76,0.76,1.14,6.08,,,Nike,1990-05-28
+2022,Jude Bellingham,England,MF,Borussia Dortmund,5,22.0,5.0,1.0,1.0,3.04,1.3,3.26,8.26,,,Nike,2003-06-29
+2022,Conor Gallagher,England,MF,Chelsea,5,26.0,,,,,,,,,,Nike,2000-02-06
+2022,Jordan Henderson,England,MF,Liverpool,5,8.0,4.0,1.0,0.0,0.0,0.33,1.32,3.96,,,Nike,1990-06-17
+2022,Mason Mount,England,MF,Chelsea,5,19.0,4.0,0.0,0.0,1.45,0.0,0.97,6.29,,,Nike,1999-01-10
+2022,Kalvin Phillips,England,MF,Manchester City,5,14.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,,,Nike,1995-12-02
+2022,Declan Rice,England,MF,West Ham United,5,4.0,5.0,0.0,0.0,0.43,2.37,1.29,3.02,,,Nike,1999-01-14
+2022,Phil Foden,England,MF,Manchester City,5,20.0,4.0,1.0,2.0,1.39,0.35,0.35,4.86,,,Nike,2000-05-28
+2022,Jack Grealish,England,MF,Manchester City,5,7.0,5.0,1.0,0.0,5.49,3.29,3.29,17.56,,,Nike,1995-09-10
+2022,Harry Kane,England,FW,Tottenham,5,9.0,5.0,2.0,3.0,1.57,0.0,0.45,6.94,,,Nike,1993-07-28
+2022,James Maddison,England,FW,Leicester City,5,25.0,,,,,,,,,,Nike,1996-11-13
+2022,Marcus Rashford,England,FW,Manchester United,5,11.0,5.0,3.0,0.0,5.26,0.66,0.66,4.6,,,Nike,1997-10-31
+2022,Bukayo Saka,England,FW,Arsenal,5,17.0,4.0,3.0,0.0,2.47,0.62,2.16,5.24,,,Nike,2001-09-05
+2022,Raheem Sterling,England,FW,Chelsea,5,10.0,3.0,1.0,1.0,1.81,0.6,0.6,4.22,,,Nike,1994-12-08
+2022,Callum Wilson,England,FW,Newcastle United,5,24.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,,,Nike,1992-02-27
+2022,Alisson,Brazil,GK,Liverpool,1,1.0,4.0,,,,,,,71.43,50.0,Nike,1992-10-02
+2022,Ederson,Brazil,GK,Manchester City,1,23.0,1.0,,,,,,,66.67,0.0,Nike,1993-08-17
+2022,Weverton,Brazil,GK,Palmeiras,1,12.0,1.0,,,,,,,0.0,0.0,Nike,1987-12-13
+2022,Dani Alves,Brazil,DF,UNAM,1,13.0,2.0,0.0,0.0,0.77,1.54,3.85,7.69,,,Nike,1983-05-06
+2022,Thiago Silva,Brazil,DF,Chelsea,1,3.0,4.0,0.0,1.0,0.0,1.15,0.69,4.15,,,Nike,1984-09-22
+2022,Marquinhos,Brazil,DF,PSG,1,4.0,5.0,0.0,0.0,0.21,0.42,1.06,3.39,,,Nike,1994-05-14
+2022,Danilo,Brazil,DF,Juventus,1,2.0,3.0,0.0,0.0,0.0,0.96,1.6,4.47,,,Nike,1991-07-15
+2022,Alex Sandro,Brazil,DF,Juventus,1,6.0,3.0,0.0,0.0,0.95,1.42,3.79,7.11,,,Nike,1991-01-26
+2022,Eder Militao,Brazil,DF,Real Madrid,1,14.0,4.0,0.0,0.0,0.0,0.77,1.55,4.38,,,Nike,1998-01-18
+2022,Alex Telles,Brazil,DF,Sevilla,1,16.0,1.0,0.0,0.0,0.0,0.0,3.1,6.21,,,Nike,1992-12-15
+2022,Bremer,Brazil,DF,Juventus,1,24.0,2.0,0.0,0.0,0.0,0.83,0.83,9.17,,,Nike,1997-03-18
+2022,Casemiro,Brazil,MF,Manchester United,1,5.0,4.0,1.0,0.0,0.46,1.38,2.54,4.84,,,Nike,1992-02-23
+2022,Lucas Paqueta,Brazil,MF,West Ham,1,7.0,4.0,1.0,1.0,0.28,0.61,2.58,8.65,,,Nike,1997-08-27
+2022,Fabinho,Brazil,MF,Liverpool,1,15.0,1.0,0.0,0.0,0.0,1.0,3.0,5.0,,,Nike,1993-10-23
+2022,Fred,Brazil,MF,Manchester United,1,8.0,4.0,0.0,0.0,0.64,0.0,1.28,3.83,,,Nike,1993-03-05
+2022,Everton Ribeiro,Brazil,MF,Flamengo,1,22.0,1.0,0.0,0.0,2.5,0.0,2.5,2.5,,,Nike,1989-04-10
+2022,Bruno Guimaraes,Brazil,MF,Newcastle United,1,17.0,2.0,0.0,0.0,2.5,0.0,0.0,5.0,,,Nike,1997-11-16
+2022,Neymar,Brazil,FW,PSG,1,10.0,3.0,2.0,1.0,5.81,0.32,0.32,7.1,,,Nike,1992-02-05
+2022,Gabriel Jesus,Brazil,FW,Arsenal,1,18.0,3.0,0.0,0.0,1.96,1.96,1.96,8.81,,,Nike,1997-04-03
+2022,Richarlison,Brazil,FW,Tottenham,1,9.0,4.0,3.0,0.0,1.1,0.28,0.55,4.41,,,Nike,1997-05-10
+2022,Vinicius Jr,Brazil,FW,Real Madrid,1,20.0,4.0,1.0,2.0,3.89,0.0,1.2,4.49,,,Nike,2000-07-12
+2022,Antony,Brazil,FW,Manchester United,1,19.0,4.0,0.0,0.0,6.84,0.53,1.58,6.85,,,Nike,2000-02-24
+2022,Raphinha,Brazil,FW,Barcelona,1,11.0,5.0,0.0,0.0,2.84,0.85,2.27,4.54,,,Nike,1996-12-14
+2022,Rodrygo,Brazil,FW,Real Madrid,1,21.0,5.0,0.0,1.0,3.02,1.01,2.01,5.53,,,Nike,2001-01-09
+2022,Gabriel Matinelli,Brazil,FW,Arsenal,1,26.0,2.0,0.0,0.0,5.68,0.0,1.62,6.49,,,Nike,2001-06-18
+2022,Pedro,Brazil,FW,Flamengo,1,25.0,2.0,0.0,0.0,0.0,1.45,2.9,14.51,,,Nike,1997-06-20
+2022,Diogo Costa,Portugal,GK,Porto,9,22.0,5.0,,,,,,,64.17,20.0,Nike,
+2022,Rui Patricio,Portugal,GK,Roma,9,1.0,0.0,,,,,,,,,Nike,
+2022,Jose Sa,Portugal,GK,Wolves,9,12.0,0.0,,,,,,,,,Nike,
+2022,Diogo Dalot,Portugal,DF,Manchester United,9,2.0,3.0,0.0,1.0,0.69,0.69,2.78,7.64,,,Nike,
+2022,Danilo Pereira,Portugal,DF,PSG,9,13.0,1.0,0.0,0.0,1.0,3.0,1.0,14.0,,,Nike,
+2022,Pepe,Portugal,DF,Porto,9,3.0,4.0,1.0,0.0,0.25,1.5,1.25,7.25,,,Nike,
+2022,Ruben Dias,Portugal,DF,Manchester City,9,4.0,4.0,0.0,0.0,0.0,0.75,0.75,3.75,,,Nike,1997-05-14
+2022,Antonio Silva,Portugal,DF,Benfica,9,24.0,1.0,0.0,0.0,0.0,1.0,1.0,5.0,,,Nike,
+2022,Nuno Mendes,Portugal,DF,PSG,9,19.0,1.0,0.0,0.0,4.29,4.29,0.0,12.85,,,Nike,
+2022,Joao Cancelo,Portugal,DF,Manchester City,9,20.0,4.0,0.0,0.0,2.62,0.58,2.04,10.19,,,Nike,1994-05-27
+2022,Raphael Guerreiro,Portugal,DF,Borussia Dortmund,9,5.0,4.0,1.0,2.0,0.65,0.97,0.97,3.23,,,Nike,
+2022,Joao Palhinha,Portugal,MF,Fulham,9,6.0,3.0,0.0,0.0,2.57,2.57,5.14,5.14,,,Nike,
+2022,Ruben Neves,Portugal,MF,Wolves,9,18.0,5.0,0.0,0.0,0.0,0.66,0.33,2.32,,,Nike,
+2022,Bernardo Silva,Portugal,MF,Manchester City,9,10.0,5.0,0.0,0.0,0.5,0.5,0.5,1.76,,,Nike,
+2022,Bruno Fernandes,Portugal,MF,Manchester United,9,8.0,4.0,2.0,3.0,0.76,0.5,0.76,4.28,,,Nike,
+2022,Joao Mario,Portugal,MF,Benfica,9,17.0,2.0,0.0,0.0,1.08,0.0,2.17,2.17,,,Nike,
+2022,Matheus Nunes,Portugal,MF,Wolves,9,23.0,2.0,0.0,0.0,1.23,0.0,0.0,3.7,,,Nike,
+2022,Otavio,Portugal,MF,Porto,9,25.0,3.0,0.0,0.0,,,,,,,Nike,
+2022,William Carvalho,Portugal,MF,Real Betis,9,14.0,4.0,0.0,0.0,0.0,0.0,2.51,6.69,,,Nike,
+2022,Vitinha,Portugal,MF,PSG,9,16.0,3.0,0.0,0.0,1.51,0.0,2.27,5.29,,,Nike,
+2022,Andre Silva,Portugal,FW,RB Leipzig,9,24.0,1.0,0.0,0.0,0.0,0.0,0.0,7.2,,,Nike,
+2022,Cristiano Ronaldo 🐐,Portugal,FW,-,9,7.0,5.0,1.0,0.0,0.62,0.0,0.0,6.49,,,Nike,
+2022,Goncalo Ramos,Portugal,FW,Benfica,9,26.0,4.0,3.0,1.0,1.18,0.0,0.59,7.11,,,Nike,
+2022,Joao Felix,Portugal,FW,Atletico Madrid,9,11.0,4.0,1.0,2.0,2.16,1.08,0.54,5.13,,,Nike,
+2022,Rafael Leao,Portugal,FW,AC Milan,9,15.0,5.0,2.0,0.0,6.51,1.08,0.0,7.59,,,Nike,
+2022,Ricardo Horta,Portugal,FW,SC Braga,9,21.0,3.0,1.0,0.0,0.0,0.76,1.53,2.29,,,Nike,
+2022,Mat Ryan,Australia,GK,Copenhagen,27,1.0,4.0,,,,,,,66.67,50.0,Nike,1992-04-08
+2022,Danny Vukovic,Australia,GK,Central Coast Mariners,27,18.0,,,,,,,,,,Nike,1985-03-27
+2022,Andrew Redmayne,Australia,GK,Sydney,27,12.0,,,,,,,,,,Nike,1989-01-13
+2022,Aziz Behic,Australia,DF,Dundee United,27,16.0,4.0,0.0,0.0,3.0,0.75,2.0,5.5,,,Nike,1990-10-16
+2022,Milos Degenek,Australia,DF,Columbus Crew,27,2.0,4.0,0.0,0.0,1.49,0.5,2.49,11.93,,,Nike,1994-04-28
+2022,Bailey Wright,Australia,DF,Sunderland,27,8.0,1.0,0.0,0.0,0.0,0.0,0.0,11.24,,,Nike,
+2022,Fran Karacic,Australia,DF,Brescia,27,5.0,2.0,0.0,0.0,0.0,1.91,2.87,10.53,,,Nike,1996-05-12
+2022,Harry Souttar,Australia,DF,Stoke City,27,19.0,4.0,0.0,0.0,0.0,1.5,1.0,7.25,,,Nike,1998-10-22
+2022,Nathaniel Atkinson,Australia,DF,Hearts,27,3.0,1.0,0.0,0.0,2.12,1.06,4.24,4.24,,,Nike,1999-06-13
+2022,Joel King,Australia,DF,OB,27,24.0,,,,,,,,,,Nike,2000-10-30
+2022,Kye Rowles,Australia,DF,Hearts,27,4.0,4.0,0.0,0.0,0.0,1.75,2.25,4.25,,,Nike,1998-06-24
+2022,Thomas Deng,Australia,DF,Albirex Niigata,27,20.0,,,,,,,,,,Nike,1997-03-20
+2022,Aaron Mooy,Australia,MF,Celtic,27,13.0,4.0,0.0,0.0,0.75,0.5,2.25,4.0,,,Nike,1990-09-15
+2022,Jackson Irvine,Australia,MF,St Pauli,27,22.0,4.0,0.0,0.0,0.51,0.51,1.01,6.08,,,Nike,1993-03-07
+2022,Ajdin Hrustic,Australia,MF,Hellas Verona,27,10.0,2.0,0.0,0.0,6.1,1.53,1.53,6.1,,,Nike,1996-07-05
+2022,Riley McGree,Australia,MF,Middlesbrough,27,14.0,4.0,0.0,1.0,0.0,1.67,0.67,2.0,,,Nike,1998-11-02
+2022,Keanu Baccus,Australia,MF,St Mirren,27,26.0,4.0,0.0,0.0,0.0,1.61,0.8,4.82,,,Nike,1998-06-07
+2022,Cameron Devlin,Australia,MF,Hearts,27,17.0,,,,,,,,,,Nike,1998-06-07
+2022,Mathew Leckie,Australia,FW,Melbourne City,27,7.0,4.0,1.0,1.0,2.69,0.27,1.07,11.02,,,Nike,1991-02-04
+2022,Awer Mabil,Australia,FW,Cadiz,27,11.0,2.0,0.0,0.0,4.09,4.09,0.0,0.0,,,Nike,1995-09-15
+2022,Jamie Maclaren,Australia,FW,Melbourne City,27,9.0,3.0,0.0,0.0,0.0,1.7,0.0,3.4,,,Nike,1993-07-29
+2022,Mitchell Duke,Australia,FW,Fagiano Okayama,27,15.0,4.0,1.0,0.0,0.66,0.66,0.0,8.58,,,Nike,1991-01-18
+2022,Marco Tilio,Australia,FW,Hibernian,27,6.0,,,,,,,,,,Nike,1993-04-25
+2022,Craig Goodwin,Australia,FW,Adelaide United,27,23.0,4.0,1.0,0.0,0.0,0.0,1.52,3.04,,,Nike,1991-12-16
+2022,Jason Cummings,Australia,FW,Central Coast Mariners,27,25.0,1.0,0.0,0.0,2.65,0.0,0.0,0.0,,,Nike,1995-08-01
+2022,Garang Kuol,Australia,FW,Central Coast Mariners,27,21.0,2.0,0.0,0.0,,,,,,,Nike,2004-09-15
+2022,Matt Turner,USA,GK,Arsenal,13,1.0,4.0,,,,,,,53.33,50.0,Nike,1994-06-24
+2022,Ethan Horvath,USA,GK,Luton Town,13,12.0,0.0,,,,,,,,,,1995-06-09
+2022,Sean Johnson,USA,GK,New York City FC,13,25.0,0.0,,,,,,,,,Nike,1989-05-31
+2022,Cameron Carter-Vickers,USA,DF,Celtic,13,20.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,,,Nike,1997-12-31
+2022,Sergiño Dest,USA,DF,AC Milan,13,2.0,4.0,0.0,1.0,2.33,0.58,0.87,2.91,,,Nike,2000-11-03
+2022,Aaron Long,USA,DF,New York Red Bills,13,15.0,,,,,,,,,,Nike,2000-10-12
+2022,Shaq Moore,USA,DF,Nashville SC,13,18.0,2.0,0.0,0.0,0.0,0.0,9.0,18.0,,,Nike,1996-11-02
+2022,Tim Ream,USA,DF,Fulham,13,13.0,4.0,0.0,0.0,0.25,1.0,1.0,4.75,,,Nike,1987-10-05
+2022,Antonee Robinson,USA,DF,Fulham,13,5.0,4.0,0.0,0.0,1.25,1.75,1.5,5.5,,,Nike,1997-08-08
+2022,Joe Scally,USA,DF,Borussia Mönchengladbach,13,26.0,,,,,,,,,,Nike,2002-12-31
+2022,DeAndre Yedlin,USA,DF,Inter Miami,13,22.0,2.0,0.0,0.0,0.0,0.0,5.81,11.61,,,Nike,1993-07-09
+2022,Walker Zimmerman,USA,DF,Nashville SC,13,3.0,4.0,0.0,0.0,0.0,1.29,0.97,6.15,,,Nike,1993-05-19
+2022,Brenden Aaronson,USA,MF,Leeds United,13,11.0,4.0,0.0,0.0,6.06,0.87,2.6,6.92,,,Nike,2000-10-22
+2022,Kellyn Acosta,USA,MF,Los Angeles FC,13,23.0,2.0,0.0,0.0,0.0,0.0,6.59,10.98,,,Nike,1995-07-24
+2022,Tyler Adams,USA,MF,Leeds United,13,4.0,4.0,0.0,0.0,0.25,1.0,2.25,6.25,,,Nike,1999-02-14
+2022,Luca de la Torre,USA,MF,Celta Vigo,13,14.0,,,,,,,,,,Nike,1998-05-23
+2022,Weston McKennie,USA,MF,Juventus,13,8.0,4.0,0.0,0.0,0.65,0.0,0.65,3.6,,,Nike,1998-08-28
+2022,Yunus Musah,USA,MF,Valencia,13,6.0,4.0,0.0,0.0,,,,,,,Nike,2002-11-29
+2022,Cristian Roldan,USA,MF,Seattle Sounders,13,17.0,,,,,,,,,,Nike,1995-06-03
+2022,Jesús Ferreira,USA,FW,Tulsa Roughnecks,13,9.0,1.0,0.0,0.0,1.96,0.0,1.96,5.87,,,Nike,2000-12-24
+2022,Jordan Morris,USA,FW,Swansea City,13,16.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,1994-10-26
+2022,Christian Pulisic,USA,FW,Chelsea,13,10.0,4.0,1.0,2.0,1.99,0.0,0.57,5.7,,,Nike,
+2022,Gio Reyna,USA,FW,Borussia Dortmund,13,7.0,2.0,0.0,0.0,0.0,0.0,0.0,10.59,,,Nike,2002-11-13
+2022,Tim Weah,USA,FW,Lille,13,21.0,4.0,1.0,0.0,0.56,0.0,0.28,2.25,,,Nike,2000-02-22
+2022,Haji Wright,USA,FW,Antalyaspor,13,19.0,4.0,1.0,0.0,0.67,0.0,1.33,10.0,,,Nike,1998-03-27
+2022,Wojciech Szczesny,Poland,GK,Juventus,22,1.0,4.0,,,,,,,82.14,50.0,Nike,
+2022,Kamil Grabara,Poland,GK,FC Copenhagen,22,22.0,0.0,,,,,,,,,Nike,
+2022,Lukasz Skorupski,Poland,GK,Bologna,22,12.0,0.0,,,,,,,,,Nike,1991-05-05
+2022,Jan Bednarek,Poland,DF,Aston Villa,22,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,
+2022,Kamil Glik,Poland,DF,Benevento,22,15.0,4.0,0.0,0.0,0.0,0.75,0.5,2.5,,,Nike,
+2022,Robert Gumny,Poland,DF,Augsburg,22,25.0,,,,,,,,,,Nike,
+2022,Artur Jedrzejczyk,Poland,DF,Legia Warsaw,22,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,
+2022,Jakub Kiwior,Poland,DF,Spezia,22,14.0,4.0,0.0,0.0,0.0,0.76,0.5,2.02,,,Nike,
+2022,Mateusz Wieteska,Poland,DF,Clermont,22,4.0,,,,,,,,,,Nike,
+2022,Bartosz Bereszynski,Poland,DF,Sampdoria,22,18.0,4.0,0.0,0.0,1.84,0.79,1.58,5.0,,,Nike,
+2022,Matty Cash,Poland,DF,Aston Villa,22,2.0,4.0,0.0,0.0,0.5,0.0,1.0,2.5,,,Nike,
+2022,Nicola Zalewski,Poland,DF,Roma,22,21.0,2.0,0.0,0.0,2.77,0.0,5.54,8.31,,,Nike,
+2022,Krystian Bielik,Poland,MF,Birmingham City,22,6.0,4.0,0.0,0.0,1.26,1.67,1.26,9.21,,,Nike,
+2022,Przemyslaw Frankowski,Poland,MF,Lens,22,24.0,4.0,0.0,0.0,0.74,1.12,2.6,5.95,,,Nike,
+2022,Kamil Grosicki,Poland,MF,Pogon Szczecin,22,11.0,1.0,0.0,0.0,,0.0,0.0,,,,Nike,
+2022,Grzegorz Krychowiak,Poland,MF,Al-Shabab,22,10.0,4.0,0.0,0.0,0.54,1.35,2.43,6.74,,,Nike,
+2022,Jakub Kaminski,Poland,MF,Wolfsburg,22,13.0,4.0,0.0,0.0,1.55,0.0,2.33,3.88,,,Nike,
+2022,Michal Skoras,Poland,MF,Lech Poznan,22,26.0,1.0,0.0,0.0,0.0,2.05,0.0,8.19,,,Nike,
+2022,Damian Szymanski,Poland,MF,AEK Athens,22,8.0,1.0,0.0,0.0,0.0,3.21,0.0,0.0,,,Nike,
+2022,Sebastian Szymanski,Poland,MF,Feyenoord,22,19.0,2.0,0.0,0.0,1.33,1.33,4.0,8.0,,,Nike,1999-05-10
+2022,Piotr Zielinski,Poland,MF,Napoli,22,20.0,4.0,1.0,0.0,0.82,0.27,1.91,2.73,,,Nike,1994-05-20
+2022,Szymon Zurkowski,Poland,MF,Fiorentina,22,17.0,,,,,,,,,,Nike,
+2022,Robert Lewandowski,Poland,FW,Barcelona,22,9.0,4.0,2.0,1.0,2.75,0.5,0.75,12.5,,,Nike,
+2022,Arkadiusz Milik,Poland,FW,Juventus,22,7.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,,,Nike,
+2022,Krzysztof Piatek,Poland,FW,Salernitana,22,23.0,2.0,0.0,0.0,0.0,0.0,0.0,17.3,,,Nike,
+2022,Karol Swiderski,Poland,FW,Charlotte FC,22,16.0,1.0,0.0,0.0,0.0,3.91,7.83,,,,Nike,
+2022,Edouard Mendy,Senegal,GK,Chelsea,19,16.0,4.0,,,,,,,50.0,0.0,Puma,
+2022,Alfred Gomis,Senegal,GK,Rennes,19,23.0,,,,,,,,,,Puma,
+2022,Seny Dieng,Senegal,GK,QPR,19,1.0,,,,,,,,,,Puma,
+2022,Formose Mendy,Senegal,DF,Amiens,19,2.0,,,,,,,,,,Puma,
+2022,Kalidou Koulibaly,Senegal,DF,Chelsea,19,3.0,4.0,1.0,0.0,0.0,0.75,3.0,9.25,,,Puma,
+2022,Papa Abou Cisse,Senegal,DF,Olympiacos,19,4.0,2.0,0.0,0.0,0.88,1.76,0.0,4.41,,,Puma,
+2022,Abdou Diallo,Senegal,DF,RB Leipzig,19,22.0,4.0,0.0,0.0,0.0,0.27,0.54,4.34,,,Puma,1996-05-04
+2022,Fode Ballo-Toure,Senegal,DF,AC Milan,19,12.0,1.0,0.0,0.0,0.0,0.0,0.0,,,,Puma,
+2022,Ismail Jakobs,Senegal,DF,AS Monaco,19,14.0,4.0,0.0,1.0,0.32,1.29,0.0,7.39,,,Puma,
+2022,Youssouf Sabaly,Senegal,DF,Real Betis,19,21.0,4.0,0.0,0.0,1.25,1.0,1.5,7.5,,,Puma,
+2022,Moussa Ndiaye,Senegal,DF,Anderlecht,19,10.0,,,,,,,,,,Puma,
+2022,Papa Gueye,Senegal,MF,Marseille,19,26.0,3.0,0.0,0.0,0.6,1.19,2.38,10.13,,,Puma,
+2022,Pape Matar Sarr,Senegal,MF,Tottenham Hotspur,19,17.0,0.0,0.0,0.0,1.61,0.0,4.82,8.65,,,Puma,
+2022,Nampalys Mendy,Senegal,MF,Leicester City,19,6.0,4.0,0.0,0.0,0.33,0.99,1.31,2.3,,,Puma,
+2022,Krepin Diatta,Senegal,MF,AS Monaco,19,15.0,3.0,0.0,0.0,1.96,0.0,0.0,3.43,,,Puma,
+2022,Pathe Ciss,Senegal,MF,Rayo Vallecano,19,11.0,3.0,0.0,0.0,1.23,1.23,1.85,8.63,,,Puma,
+2022,Moustapha Name,Senegal,MF,Monaco,19,24.0,,,,,,,,,,Puma,1995-05-05
+2022,Loum Ndiaye,Senegal,MF,Pafos,19,25.0,,,,,,,,,,Puma,
+2022,Boulaye Dia,Senegal,FW,Salernitana,19,9.0,4.0,1.0,0.0,0.56,0.28,0.28,4.76,,,Puma,
+2022,Ismalia Sarr,Senegal,FW,Watford,19,18.0,4.0,1.0,0.0,3.4,0.52,0.78,11.77,,,Puma,
+2022,Bamba Dieng,Senegal,FW,Marseille,19,20.0,4.0,1.0,0.0,,,,,,,Puma,
+2022,Iliman Ndiaye,Senegal,FW,Sheffield United,19,13.0,3.0,0.0,1.0,4.6,0.66,0.0,3.94,,,Puma,
+2022,Nicolas Jackson,Senegal,FW,Villarreal,19,7.0,1.0,0.0,0.0,,,,,,,Puma,
+2022,Famara Diedhiou,Senegal,FW,Alanyaspor,19,19.0,2.0,1.0,0.0,0.98,0.0,0.0,11.74,,,Puma,
+2022,Eiji Kawashima,Japan,GK,Strasbourg,20,1.0,0.0,,,,,,,,,Adidas,1983-03-20
+2022,Shuichi Gonda,Japan,GK,Shimizu S-Pulse,20,12.0,4.0,,,,,,,78.95,0.0,Adidas,1989-03-03
+2022,Daniel Schmidt,Japan,GK,Sint-Truiden,20,23.0,0.0,,,,,,,,,Adidas,1992-02-03
+2022,Miki Yamane,Japan,DF,Kawasaki Frontale,20,2.0,1.0,0.0,0.0,1.45,2.9,1.45,4.35,,,Adidas,1993-12-22
+2022,Shogo Taniguchi,Japan,DF,Kawasaki Frontale,20,3.0,2.0,0.0,0.0,0.0,0.43,0.43,6.43,,,Adidas,1991-07-15
+2022,Yuto Nagatomo,Japan,DF,Tokyo,20,5.0,4.0,0.0,0.0,1.69,0.0,1.69,3.8,,,Adidas,1986-09-12
+2022,Takehiro Tomiyasu,Japan,DF,Arsenal,20,16.0,3.0,0.0,0.0,0.0,0.0,0.0,5.84,,,Adidas,1998-11-05
+2022,Hiroki Sakai,Japan,DF,Urawa Red Diamonds,20,19.0,2.0,0.0,0.0,1.5,0.75,3.75,9.0,,,Adidas,1990-04-12
+2022,Maya Yoshida,Japan,DF,Schalke,20,22.0,4.0,0.0,1.0,0.46,0.69,0.92,6.76,,,Adidas,1988-08-24
+2022,Hiroki Ito,Japan,DF,Stuttgart,20,26.0,1.0,0.0,0.0,0.0,0.0,0.0,4.1,,,Adidas,1999-05-12
+2022,Wataru Endo,Japan,MF,Stuttgart,20,6.0,4.0,0.0,0.0,0.89,0.89,2.38,10.69,,,Adidas,1993-02-09
+2022,Gaku Shibasaki,Japan,MF,Leganes,20,7.0,,,,,,,,,,Adidas,1992-05-28
+2022,Ritsu Doan,Japan,MF,Freiburg,20,8.0,4.0,2.0,0.0,2.49,0.83,2.49,6.22,,,Adidas,1998-06-16
+2022,Kaoru Mitoma,Japan,MF,Brighton,20,9.0,4.0,0.0,1.0,2.8,1.12,3.91,7.83,,,Adidas,1997-05-20
+2022,Takumi Minamino,Japan,MF,Monaco,20,10.0,3.0,0.0,0.0,1.61,0.0,3.21,3.21,,,Adidas,1995-01-16
+2022,Hidemasa Morita,Japan,MF,Sporting,20,13.0,3.0,0.0,0.0,1.26,0.63,0.0,3.46,,,Adidas,1995-05-10
+2022,Junya Ito,Japan,MF,Reims,20,14.0,4.0,0.0,1.0,1.95,1.11,1.95,5.58,,,Adidas,1993-03-09
+2022,Daichi Kamada,Japan,MF,Eintracht Frankfurt,20,15.0,4.0,0.0,0.0,1.11,0.0,1.94,4.72,,,Adidas,1996-11-05
+2022,Ao Tanaka,Japan,MF,Fortuna Dusseldorf,20,17.0,3.0,1.0,0.0,0.0,1.57,1.57,5.23,,,Adidas,1998-09-10
+2022,Yuki Soma,Japan,MF,Nagoya Grampus,20,24.0,1.0,0.0,0.0,2.2,0.0,2.2,6.59,,,Adidas,1997-02-25
+2022,Takuma Asano,Japan,FW,Bochum,20,18.0,4.0,1.0,0.0,0.56,0.56,0.0,1.12,,,Adidas,1994-11-10
+2022,Shuto Machino,Japan,FW,Shonan Bellmare,20,20.0,,,,,,,,,,Adidas,1999-09-30
+2022,Ayase Ueda,Japan,FW,Cercle Brugge,20,21.0,,,,,,,,,,Adidas,1998-08-28
+2022,Daizen Maeda,Japan,FW,Celtic,20,25.0,3.0,1.0,0.0,0.0,1.48,1.48,3.9,,,Adidas,1997-10-20
+2022,Kim Seung-gyu,South Korea,GK,Al Shabab,25,1.0,4.0,,,,,,,57.89,25.0,Nike,
+2022,Jo Hyeon-woon,South Korea,GK,Ulsan Hyundai,25,21.0,0.0,,,,,,,,,Nike,
+2022,Song Bum-keun,South Korea,GK,Jeonbuk Hyundai Motors,25,12.0,0.0,,,,,,,,,Nike,
+2022,Kim Min-jae,South Korea,DF,Napoli,25,4.0,3.0,0.0,0.0,0.33,0.67,0.67,7.66,,,Nike,
+2022,Kim Jin-su,South Korea,DF,Jeonbuk Hyundai Motors,25,3.0,4.0,0.0,1.0,0.57,0.85,2.85,10.26,,,Nike,
+2022,Hong Chul,South Korea,DF,Daegu FC,25,14.0,1.0,0.0,0.0,2.05,2.05,0.0,4.05,,,Nike,
+2022,Kim Moon-hwan,South Korea,DF,Jeonbuk Hyundai Motors,25,15.0,4.0,0.0,0.0,1.0,1.0,2.25,5.75,,,Nike,
+2022,Yoon Jong-gyu,South Korea,DF,FC Seoul,25,2.0,,,,,,,,,,Nike,
+2022,Kim Young-gwon,South Korea,DF,Ulsan Hyundai,25,19.0,4.0,1.0,0.0,0.0,0.77,0.77,4.36,,,Nike,
+2022,Kim Tae-hwan,South Korea,DF,Ulsan Hyundai,25,23.0,,,,,,,,,,Nike,
+2022,Kwon Kyung-won,South Korea,DF,Gamba Osaka,25,20.0,4.0,0.0,0.0,0.0,,,,,,Nike,
+2022,Cho Yu-min,South Korea,DF,Daejon Citizen,25,24.0,1.0,0.0,0.0,,,,,,,Nike,
+2022,Jung Woo-young,South Korea,MF,Al Sadd,25,5.0,4.0,0.0,0.0,0.0,0.59,1.48,5.04,,,Nike,
+2022,Na Sang-ho,South Korea,MF,FC Seoul,25,17.0,2.0,0.0,0.0,3.05,0.0,3.05,7.63,,,Nike,
+2022,Paik Seung-ho,South Korea,MF,Jeonbuk Hyundai Motors,25,8.0,1.0,1.0,0.0,0.0,0.0,10.8,,,,Nike,
+2022,Son Jun-ho,South Korea,MF,Shandong Taishan,25,13.0,3.0,0.0,0.0,0.0,3.91,3.91,3.91,,,Nike,1992-05-12
+2022,Song Min-kyu,South Korea,MF,Jeonbuk Hyundai Motors,25,26.0,,,,,,,,,,Nike,
+2022,Kwon Chang-hoon,South Korea,MF,Gimcheon Sangmu,25,22.0,1.0,0.0,0.0,,,,,,,Nike,
+2022,Lee Jae-sung,South Korea,MF,Mainz,25,10.0,3.0,0.0,0.0,1.26,1.26,2.1,5.89,,,Nike,
+2022,Hwang In-beom,South Korea,MF,Olympiacos,25,6.0,4.0,0.0,0.0,1.07,0.81,1.07,2.96,,,Nike,
+2022,Lee Kang-in,South Korea,MF,Mallorca,25,18.0,4.0,0.0,1.0,0.62,0.0,2.47,5.55,,,Nike,
+2022,Son Heung-min,South Korea,FW,Tottenham Hotspur,25,7.0,4.0,0.0,1.0,3.25,0.5,1.25,3.5,,,Nike,
+2022,Hwang Hee-chan,South Korea,FW,Wolverhampton Wanderers,25,11.0,2.0,1.0,0.0,7.11,0.0,0.79,5.53,,,Nike,
+2022,Jeong Woo-yeong,South Korea,FW,Freiburg,25,25.0,1.0,0.0,0.0,1.96,0.0,0.0,0.0,,,Nike,
+2022,Hwang Ui-jo,South Korea,FW,Olympiacos,25,16.0,4.0,0.0,0.0,0.86,0.0,0.0,2.57,,,Nike,
+2022,Cho Gue-sung,South Korea,FW,Jeonbuk Hyundai Motors,25,9.0,,,,,,,,,,Nike,
+2022,Robert Sanchez,Spain,GK,Brighton,10,1.0,0.0,,,,,,,,,Adidas,
+2022,David Raya,Spain,GK,Brentford,10,13.0,0.0,,,,,,,,,Adidas,
+2022,Unai Simon,Spain,GK,Athletic Club,10,23.0,4.0,,,,,,,66.67,50.0,Adidas,
+2022,Cesar Azpilicueta,Spain,DF,Chelsea,10,2.0,2.0,0.0,1.0,0.0,0.66,0.66,3.31,,,Adidas,
+2022,Jordi Alba,Spain,DF,FC Barcelona,10,18.0,4.0,0.0,2.0,1.02,1.02,2.37,4.74,,,Adidas,
+2022,Hugo Guillamon,Spain,DF,Valencia,10,15.0,3.0,1.0,0.0,,,,,,,Adidas,
+2022,Pau Torrres,Spain,DF,Villarreal,10,4.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,,,Adidas,
+2022,Eric Garcia,Spain,DF,Barcelona,10,3.0,3.0,0.0,0.0,,,,,,,Adidas,
+2022,Alejandro Balde,Spain,DF,Barcelona,10,14.0,4.0,0.0,0.0,0.0,0.0,4.35,5.08,,,Adidas,
+2022,Dani Carvajal,Spain,DF,Real Madrid,10,20.0,2.0,0.0,0.0,0.0,1.34,0.67,1.34,,,Adidas,
+2022,Aymeric Laporte,Spain,DF,Manchester City,10,24.0,3.0,0.0,0.0,0.0,0.6,0.6,4.2,,,Adidas,1994-05-27
+2022,Sergio Busquets,Spain,MF,Barcelona,10,5.0,4.0,0.0,0.0,0.25,0.25,1.73,6.68,,,Adidas,
+2022,Marcos Llorente,Spain,MF,Atletico Madrid,10,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Adidas,
+2022,Pedri,Spain,MF,Barcelona,10,26.0,4.0,0.0,0.0,2.02,1.01,1.01,3.53,,,Adidas,
+2022,Rodri,Spain,MF,Manchester City,10,16.0,4.0,0.0,0.0,0.0,0.69,1.15,8.77,,,Adidas,
+2022,Koke,Spain,MF,Atletico Madrid,10,8.0,2.0,0.0,0.0,0.0,0.0,1.8,1.8,,,Adidas,
+2022,Gavi,Spain,MF,Barcelona,10,9.0,4.0,1.0,0.0,0.94,0.31,2.51,8.78,,,Adidas,
+2022,Carlos Soler,Spain,MF,PSG,10,19.0,2.0,1.0,0.0,1.0,0.0,0.0,2.0,,,Adidas,
+2022,Alvaro Morata,Spain,FW,Atletico Madrid,10,7.0,4.0,3.0,1.0,1.48,0.0,0.49,2.95,,,Adidas,
+2022,Yeremy Pino,Spain,FW,Villarreal,10,17.0,,,,,,,,,,Adidas,
+2022,Ferran Torres,Spain,FW,Barcelona,10,11.0,4.0,2.0,0.0,4.52,0.0,0.0,2.88,,,Adidas,
+2022,Marco Asensio,Spain,FW,Real Madrid,10,10.0,4.0,1.0,0.0,0.78,0.0,0.39,1.56,,,Adidas,
+2022,Pablo Sarabia,Spain,FW,PSG,10,22.0,1.0,0.0,0.0,,,,,,,Adidas,1992-05-11
+2022,Dani Olmo,Spain,FW,RB Leipzig,10,21.0,4.0,1.0,1.0,3.91,0.24,1.22,3.42,,,Adidas,1998-05-07
+2022,Nico Williams,Spain,FW,Athletic Club,10,12.0,4.0,0.0,0.0,8.07,0.0,2.48,6.83,,,Adidas,
+2022,Ansu Fati,Spain,FW,Barcelona,10,25.0,2.0,0.0,0.0,4.09,0.0,2.05,6.14,,,Adidas,
+2022,Yann Sommer,Switzerland,GK,Borussia Monchengladbach,12,1.0,3.0,,,,,,,63.16,33.0,Puma,1988-12-17
+2022,Jonas Omlin,Switzerland,GK,Montpellier,12,12.0,0.0,,,,,,,,,Puma,1994-01-10
+2022,Gregor Kobel,Switzerland,GK,Borussia Dortmund,12,21.0,1.0,,,,,,,50.0,0.0,Puma,1997-12-06
+2022,Philipp Kohn,Switzerland,GK,Red Bull Salzburg,12,24.0,0.0,,,,,,,,,Puma,1998-04-02
+2022,Ricardo Rodriguez,Switzerland,DF,Torino,12,13.0,4.0,0.0,0.0,0.0,0.0,1.5,7.0,,,Puma,1992-08-25
+2022,Fabian Schar,Switzerland,DF,Newcastle United,12,22.0,2.0,0.0,0.0,0.0,1.32,1.32,7.94,,,Puma,1991-12-20
+2022,Manuel Akanji,Switzerland,DF,Manchester City,12,5.0,4.0,1.0,0.0,0.0,0.75,1.25,6.0,,,Puma,1995-07-19
+2022,Nico Elvedi,Switzerland,DF,Borussia Monchengladbach,12,4.0,2.0,0.0,0.0,0.0,0.5,1.0,4.5,,,Puma,1996-09-30
+2022,Eray Comert,Switzerland,DF,Valencia,12,18.0,2.0,0.0,0.0,0.0,4.09,0.0,2.05,,,Puma,1998-02-04
+2022,Xherdan Shaqiri,Switzerland,MF,Chicago Fire,12,23.0,3.0,1.0,1.0,0.78,0.0,0.0,3.12,,,Puma,1991-10-10
+2022,Granit Xhaka,Switzerland,MF,Arsenal,12,10.0,4.0,0.0,0.0,0.25,0.5,1.5,6.25,,,Puma,1992-09-27
+2022,Remo Freuler,Switzerland,MF,Nottingham Forest,12,8.0,4.0,1.0,0.0,0.56,0.83,2.22,3.34,,,Puma,1992-04-15
+2022,Denis Zakaria,Switzerland,MF,Chelsea,12,6.0,2.0,0.0,0.0,1.58,4.74,0.0,6.32,,,Puma,1996-11-20
+2022,Djibril Sow,Switzerland,MF,Eintracht Frankfurt,12,15.0,4.0,0.0,1.0,0.33,0.33,0.66,3.65,,,Puma,1997-02-06
+2022,Renato Steffen,Switzerland,MF,Lugano,12,11.0,1.0,0.0,0.0,2.81,0.0,0.0,2.81,,,Puma,1991-11-03
+2022,Edimilson Fernandes,Switzerland,MF,Mainz,12,2.0,3.0,0.0,0.0,1.26,1.26,1.26,2.52,,,Puma,1996-04-15
+2022,Fabian Frei,Switzerland,MF,Basel,12,20.0,2.0,0.0,0.0,0.0,4.09,4.09,4.09,,,Puma,1989-01-08
+2022,Michel Aebischer,Switzerland,MF,Bologna,12,14.0,1.0,0.0,0.0,0.0,0.0,6.43,,,,Puma,1997-01-06
+2022,Ardon Jashari,Switzerland,MF,Luzern,12,26.0,,,,,,,,,,Puma,2002-06-30
+2022,Fabian Rieder,Switzerland,MF,Young Boys,12,25.0,2.0,0.0,0.0,1.34,0.0,4.03,8.06,,,Puma,2002-02-16
+2022,Haris Seferovic,Switzerland,FW,Galatasaray,12,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Puma,1992-02-22
+2022,Breel Embolo,Switzerland,FW,Monaco,12,7.0,4.0,2.0,0.0,1.38,0.0,0.28,4.68,,,Puma,1997-02-14
+2022,Ruben Vargas,Switzerland,FW,Augsburg,12,17.0,4.0,0.0,1.0,1.56,0.31,0.0,3.13,,,Puma,1998-08-05
+2022,Christian Fassnacht,Switzerland,FW,Young Boys,12,16.0,1.0,0.0,0.0,,0.0,0.0,,,,Puma,1993-11-11
+2022,Noah Okafor,Switzerland,FW,Red Bull Salzburg,12,19.0,3.0,0.0,0.0,2.14,0.0,0.0,2.14,,,Puma,2000-05-24
+2022,Hernan Galindez,Ecuador,GK,Aucas,41,1.0,,,,,,,,,,Marathon,
+2022,Moises Ramirez,Ecuador,GK,Independiente del Valle,41,12.0,,,,,,,,,,Marathon,
+2022,Alexander Dominguez,Ecuador,GK,LDU Quito,41,22.0,,,,,,,,,,Marathon,
+2022,Felix Torres,Ecuador,DF,Santos Laguna,41,2.0,3.0,0.0,1.0,0.33,1.33,0.67,6.67,,,Marathon,
+2022,Piero Hincapie,Ecuador,DF,Bayer Leverkusen,41,3.0,3.0,0.0,0.0,0.0,0.67,2.33,6.0,,,Marathon,
+2022,Robert Arboleda,Ecuador,DF,Sao Paulo,41,4.0,,,,,,,,,,Marathon,
+2022,William Pacho,Ecuador,DF,Antwerp,41,6.0,,,,,,,,,,Marathon,
+2022,Pervis Estupinan,Ecuador,DF,Brighton,41,7.0,3.0,0.0,0.0,2.33,1.0,2.33,6.0,,,Marathon,
+2022,Xavier Arreaga,Ecuador,DF,Seattle Sounders FC,41,14.0,,,,,,,,,,Marathon,
+2022,Angelo Preciado,Ecuador,DF,Genk,41,17.0,3.0,0.0,1.0,0.34,1.7,2.38,5.1,,,Marathon,
+2022,Diego Palacios,Ecuador,DF,Los Angeles FC,41,18.0,,,,,,,,,,Marathon,
+2022,Jackson Porozo,Ecuador,DF,Troyes,41,25.0,2.0,0.0,0.0,0.0,2.84,1.89,5.69,,,Marathon,
+2022,Jose Cifuentes,Ecuador,MF,Los Angeles FC,41,5.0,,,,,,,,,,Marathon,
+2022,Carlos Gruezo,Ecuador,MF,FC Augsburg,41,8.0,1.0,0.0,0.0,0.0,0.0,3.91,3.91,,,Marathon,
+2022,Angel Mena,Ecuador,MF,Leon,41,15.0,,,,,,,,,,Marathon,
+2022,Jeremy Sarmiento,Ecuador,MF,Brighton,41,16.0,3.0,0.0,0.0,,,,,,,Marathon,
+2022,Gonzalo Plata,Ecuador,MF,Real Valladolid,41,19.0,3.0,0.0,0.0,4.0,0.67,1.0,7.67,,,Marathon,
+2022,Jhegson Mendez,Ecuador,MF,Los Angeles FC,41,20.0,,,,,,,,,,Marathon,
+2022,Alan Franco,Ecuador,MF,Talleres,41,21.0,,,,,,,,,,Marathon,
+2022,Moises Caicedo,Ecuador,MF,Brighton,41,23.0,3.0,1.0,0.0,0.0,0.67,2.0,4.33,,,Marathon,
+2022,Kevin Rodriguez,Ecuador,MF,Imbabura,41,26.0,,,,,,,,,,Marathon,
+2022,Ayrton Preciado,Ecuador,FW,Santos Laguna,41,9.0,,,,,,,,,,Marathon,
+2022,Romario Ibarra,Ecuador,FW,Pachuca,41,10.0,2.0,0.0,0.0,0.5,1.32,0.0,1.32,,,Marathon,
+2022,Michael Estrada,Ecuador,FW,Cruz Azul,41,11.0,3.0,0.0,0.0,0.79,0.0,0.39,,,,Marathon,
+2022,Enner Valencia,Ecuador,FW,Fenerbahce,41,13.0,3.0,3.0,0.0,2.1,0.35,0.7,5.25,,,Marathon,
+2022,Djorkaeff Reasco,Ecuador,FW,Newell's Old Boys,41,24.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Marathon,
+2022,Saad Al Sheeb,Qatar,GK,Al-Sadd,60,1.0,1.0,,,,,,,33.33,0.0,Nike,1990-02-19
+2022,Meshaal Barsham,Qatar,GK,Al-Sadd,60,22.0,,,,,,,,,,Nike,1998-02-14
+2022,Yousef Hassan,Qatar,GK,Al-Gharafa,60,21.0,,,,,,,,,,Nike,1996-05-24
+2022,Abdelkarim Hassan,Qatar,DF,Al-Sadd,60,3.0,,,,,,,,,,Nike,1993-08-28
+2022,Boualem Khoukhi,Qatar,DF,Al-Sadd,60,16.0,3.0,0.0,0.0,0.33,1.0,0.67,2.33,,,Nike,1990-09-07
+2022,Pedro Miguel,Qatar,DF,Al-Sadd,60,2.0,3.0,0.0,0.0,1.03,2.74,2.05,6.51,,,Nike,1990-08-06
+2022,Tarek Salman,Qatar,DF,Al-Sadd,60,5.0,1.0,0.0,0.0,0.0,,,,,,Nike,1997-12-05
+2022,Bassam Al-Rawi,Qatar,DF,Al-Duhail,60,,1.0,0.0,0.0,0.0,0.0,0.0,4.0,,,Nike,1997-12-16
+2022,Musab Kheder,Qatar,DF,Al-Sadd,60,13.0,,,,,,,,,,Nike,1993-09-26
+2022,Homam Ahmed,Qatar,DF,Al-Gharafa,60,14.0,,,,,,,,,,Nike,1999-08-25
+2022,Jassem Gaber,Qatar,DF,Al-Arabi,60,25.0,,,,,,,,,,Nike,2002-02-20
+2022,Karim Boudiaf,Qatar,MF,Al-Duhail,60,12.0,3.0,0.0,0.0,1.95,0.0,0.97,8.76,,,Nike,1990-09-16
+2022,Salem Al-Hajri,Qatar,MF,-,60,20.0,,,,,,,,,,Nike,1996-04-10
+2022,Abdulaziz Hatem,Qatar,MF,Al-Rayyan,60,6.0,3.0,0.0,0.0,0.0,0.46,0.46,1.84,,,Nike,1990-10-28
+2022,Ali Assadalla,Qatar,MF,Al-Sadd,60,8.0,,,,,,,,,,Nike,1993-01-19
+2022,Mohammed Waad,Qatar,MF,Al-Sadd,60,4.0,,,,,,,,,,Nike,1999-09-18
+2022,Assim Madibo,Qatar,MF,Al-Duhail,60,23.0,,,,,,,,,,Nike,1996-10-22
+2022,Mustafa Tarek,Qatar,MF,Al-Sadd,60,26.0,,,,,,,,,,Nike,2001-03-28
+2022,Hassan Al-Haydos,Qatar,FW,Al-Sadd,60,10.0,3.0,0.0,0.0,2.14,0.86,1.29,1.71,,,Nike,1990-12-11
+2022,Akram Afif,Qatar,FW,Al-Sadd,60,11.0,3.0,0.0,0.0,1.67,0.0,0.0,3.33,,,Nike,1996-11-18
+2022,Almoez Ali,Qatar,FW,Al-Duhail,60,19.0,3.0,0.0,0.0,1.19,0.4,0.4,3.19,,,Nike,1996-08-19
+2022,Ismaeel Mohammada,Qatar,FW,Al-Duhail,60,17.0,,,,,,,,,,Nike,1990-04-05
+2022,Mohammed Muntari,Qatar,FW,Al-Duhail,60,9.0,,,,,,,,,,Nike,1993-12-20
+2022,Ahmed Alaaeldin,Qatar,FW,Al-Gharafa,60,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,1993-01-31
+2022,Khalid Muneer,Qatar,FW,Al-Wakrah,60,18.0,,,,,,,,,,Nike,1998-02-24
+2022,Naif Al-Hadhrami,Qatar,FW,Al-Rayyan,60,24.0,,,,,,,,,,Nike,2001-07-18
+2022,Alireza Beiranvand,Iran,GK,Persepolis,24,1.0,2.0,,,,,,,80.0,0.0,Majid,1992-09-12
+2022,Amir Absedzadeh,Iran,GK,Ponferradina,24,22.0,0.0,,,,,,,,,Majid,1993-04-26
+2022,Hossein Hosseini,Iran,GK,Esteghlal,24,24.0,2.0,,,,,,,50.0,50.0,Majid,1992-05-30
+2022,Payam Niazmand,Iran,GK,Sepahann,24,12.0,,,,,,,,,,Majid,1995-04-06
+2022,Ehsan Hajsafi,Iran,DF,AEK Athens,24,3.0,3.0,0.0,0.0,0.76,0.76,3.03,5.68,,,Majid,1990-02-25
+2022,Hossein Kanaani,Iran,DF,Al Ahli,24,13.0,1.0,0.0,0.0,0.0,2.05,0.0,2.05,,,Majid,1994-03-23
+2022,Morteza Pouraliganji,Iran,DF,Persepolis,24,8.0,3.0,0.0,0.0,0.0,2.0,0.67,7.66,,,Majid,1992-04-19
+2022,Ramin Rezaeian,Iran,DF,Sepahan,24,23.0,2.0,1.0,0.0,0.5,1.5,3.5,6.5,,,Majid,1990-03-21
+2022,Milad Mohammadi,Iran,DF,AEK Athens,24,5.0,3.0,0.0,0.0,0.45,0.45,4.55,7.72,,,Majid,1993-09-29
+2022,Shojae Khalilzadeh,Iran,DF,Al-Ahli,24,4.0,,,,,,,,,,Majid,1989-05-31
+2022,Sadegh Moharrami,Iran,DF,Dinamo Zagreb,24,2.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,,,Majid,1996-03-24
+2022,Majid Hosseini,Iran,DF,Kayserispor,24,19.0,3.0,0.0,0.0,0.0,2.0,2.0,6.33,,,Majid,1996-06-20
+2022,Abolfazi Jalali,Iran,DF,Esteghlal,24,25.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,,Majid,1998-06-26
+2022,Vahid Amiri,Iran,MF,Persepolis,24,11.0,,,,,,,,,,Majid,1988-04-02
+2022,Alireza Jahanbakhsh,Iran,MF,Feyenoord,24,7.0,2.0,0.0,0.0,1.53,1.53,1.53,3.05,,,Majid,1993-08-11
+2022,Saeid Ezatolahi,Iran,MF,Vejle,24,6.0,,,,,,,,,,Majid,1996-10-01
+2022,Mehdi Torabi,Iran,MF,Persepolis,24,16.0,3.0,0.0,0.0,3.05,3.05,1.53,3.05,,,Majid,1994-09-10
+2022,Rouzbeh Cheshmi,Iran,MF,Esteghlal,24,15.0,2.0,1.0,0.0,0.0,3.05,0.0,3.06,,,Majid,1993-06-24
+2022,Saman Ghoddos,Iran,MF,Brentford,24,14.0,1.0,0.0,0.0,0.0,0.0,2.05,2.05,,,Majid,1993-09-06
+2022,Ali Gholizadeh,Iran,MF,Charleroi,24,17.0,3.0,0.0,1.0,3.18,1.36,0.0,1.82,,,Majid,1996-03-10
+2022,Ahmad Nourollahi,Iran,MF,Shabab Al-Ahli,24,21.0,3.0,0.0,0.0,0.8,2.4,2.0,3.2,,,Majid,1993-01-02
+2022,Ali Karimi,Iran,MF,Kayserispor,24,18.0,3.0,0.0,0.0,0.0,2.76,2.76,9.19,,,Majid,1994-02-11
+2022,Karim Ansarifard,Iran,FW,Omonia,24,10.0,2.0,0.0,0.0,0.0,2.57,0.0,0.0,,,Majid,1990-04-03
+2022,Sardar Azmoun,Iran,FW,Bayer Leverkusen,24,20.0,3.0,0.0,0.0,0.71,0.0,0.0,6.37,,,Majid,1995-01-01
+2022,Mehdi Taremi,Iran,FW,Porto,24,9.0,3.0,2.0,1.0,1.67,0.67,1.33,6.34,,,Majid,1992-07-18
+2022,Danny Ward,Wales,GK,Leicester City,28,12.0,2.0,,,,,,,57.14,0.0,Adidas,1993-06-22
+2022,Wayne Hennessey,Wales,GK,Nottingham Forest,28,1.0,2.0,,,,,,,83.33,0.0,Adidas,1987-01-24
+2022,Adam Davies,Wales,GK,Sheffield United,28,21.0,0.0,,,,,,,,,Adidas,1992-07-17
+2022,Ben Davies,Wales,DF,Tottenham,28,4.0,3.0,0.0,0.0,1.13,0.38,1.51,8.67,,,Adidas,
+2022,Ben Cabango,Wales,DF,Swansea City,28,24.0,,,,,,,,,,Adidas,2000-05-30
+2022,Joe Rodon,Wales,DF,Rennes,28,6.0,3.0,0.0,0.0,0.0,1.33,0.67,2.0,,,Adidas,1997-10-22
+2022,Chris Mepham,Wales,DF,Bournemouth,28,5.0,3.0,0.0,0.0,0.0,0.33,2.33,7.33,,,Adidas,1997-11-05
+2022,Ethan Ampadu,Wales,DF,Spezia,28,15.0,3.0,0.0,0.0,0.7,1.4,1.4,4.9,,,Adidas,
+2022,Chris Gunter,Wales,DF,AFC Wimbledon,28,2.0,,,,,,,,,,Adidas,
+2022,Neco Williams,Wales,DF,Nottingham Forest,28,3.0,3.0,0.0,0.0,1.32,1.76,2.2,6.59,,,Adidas,
+2022,Connor Roberts,Wales,DF,Burnley,28,14.0,3.0,0.0,0.0,0.0,0.45,1.34,2.69,,,Adidas,
+2022,Sorba Thomas,Wales,MF,Huddersfield Town,28,22.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Adidas,1999-01-25
+2022,Joe Allen,Wales,MF,Swansea City,28,7.0,2.0,0.0,0.0,0.0,0.96,0.96,2.87,,,Adidas,2000-03-14
+2022,Matthew Smith,Wales,MF,MK Dons,28,26.0,,,,,,,,,,Adidas,1999-11-22
+2022,Dylan Levitt,Wales,MF,Dundee United,28,23.0,,,,,,,,,,Adidas,2000-11-17
+2022,Harry Wilson,Wales,MF,Fulham,28,8.0,3.0,0.0,0.0,0.0,0.56,2.25,4.5,,,Adidas,1997-03-22
+2022,Joe Morrell,Wales,MF,Portsmouth,28,16.0,2.0,0.0,0.0,0.0,2.9,,,,,Adidas,1997-01-03
+2022,Jonny Williams,Wales,MF,Swindon Town,28,18.0,,,,,,,,,,Adidas,1993-10-09
+2022,Aaron Ramsey,Wales,MF,Nice,28,10.0,3.0,0.0,0.0,2.36,0.0,0.67,2.36,,,Adidas,1990-12-26
+2022,Rubin Colwill,Wales,FW,Cardiff City,28,25.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Adidas,2000-04-27
+2022,Gareth Bale,Wales,FW,Los Angeles FC,28,11.0,3.0,1.0,0.0,0.8,0.4,0.4,5.97,,,Adidas,1989-07-16
+2022,Kieffer Moore,Wales,FW,Bournemouth,28,13.0,3.0,0.0,0.0,0.0,0.8,0.4,10.85,,,Adidas,1992-08-08
+2022,Mark Harris,Wales,FW,Cardiff City,28,19.0,,,,,,,,,,Adidas,1998-12-29
+2022,Brennan Johnson,Wales,FW,Nottingham Forest,28,9.0,3.0,0.0,0.0,4.0,0.0,0.0,0.0,,,Adidas,2001-05-23
+2022,Dan James,Wales,FW,Fulham,28,20.0,3.0,0.0,0.0,0.58,0.58,0.58,1.73,,,Adidas,1997-11-10
+2022,Guillermo Ochoa,Mexico,GK,America,15,13.0,3.0,,,,,,,50.0,33.0,Adidas,1985-07-13
+2022,Alfredo Talavera,Mexico,GK,Juarez,15,1.0,0.0,,,,,,,,,Adidas,1982-09-18
+2022,Rodolfo Cota,Mexico,GK,Leon,15,12.0,0.0,,,,,,,,,Adidas,1987-07-03
+2022,Hector Moreno,Mexico,DF,Monterrey,15,15.0,3.0,0.0,0.0,0.0,0.33,0.67,5.0,,,Adidas,1988-01-17
+2022,Jesus Gallardo,Mexico,DF,Monterrey,15,23.0,3.0,0.0,0.0,1.33,0.33,3.0,5.0,,,Adidas,1994-08-15
+2022,Nestor Araujo,Mexico,DF,America,15,2.0,1.0,0.0,0.0,0.0,3.0,1.0,1.0,,,Adidas,1991-08-29
+2022,Cesar Montes,Mexico,DF,Monterrey,15,3.0,3.0,0.0,1.0,0.67,0.67,2.0,7.33,,,Adidas,1997-02-24
+2022,Jorge Sanchez,Mexico,DF,Ajax,15,19.0,2.0,0.0,0.0,2.56,1.02,0.51,4.7,,,Adidas,1997-12-10
+2022,Gerardo Arteaga,Mexico,DF,Genk,15,6.0,,,,,,,,,,Adidas,1998-09-07
+2022,Kevin Alvarez,Mexico,DF,Pachuca,15,26.0,2.0,0.0,0.0,3.86,1.29,1.29,3.86,,,Adidas,1999-01-15
+2022,Johan Vasquez,Mexico,DF,Cremonese,15,5.0,,,,,,,,,,Adidas,1998-10-22
+2022,Andres Guardado,Mexico,MF,Real Betis,15,18.0,1.0,0.0,0.0,0.0,0.0,8.57,8.57,,,Adidas,1986-09-28
+2022,Hector Herrera,Mexico,MF,Houston Dynamo,15,16.0,3.0,0.0,0.0,0.0,0.33,0.67,5.0,,,Adidas,1990-04-19
+2022,Edson Alvarez,Mexico,MF,Ajax,15,4.0,2.0,0.0,0.0,0.51,2.05,1.02,13.29,,,Adidas,1997-10-24
+2022,Orbelin Pineda,Mexico,MF,AEK Athens,15,17.0,1.0,0.0,0.0,1.17,0.0,4.68,9.35,,,Adidas,1996-03-24
+2022,Uriel Antuna,Mexico,MF,Cruz Azul,15,21.0,3.0,0.0,0.0,0.0,0.0,4.86,6.08,,,Adidas,1997-08-21
+2022,Erick Gutierrez,Mexico,MF,PSV,15,14.0,1.0,0.0,0.0,0.0,3.75,1.88,,,,Adidas,1995-06-15
+2022,Carlos Rodriguez,Mexico,MF,Cruz Azul,15,8.0,2.0,0.0,0.0,2.0,0.0,0.0,8.44,,,Adidas,1997-01-03
+2022,Roberto Alvarado,Mexico,MF,Guadalajara,15,25.0,1.0,0.0,0.0,1.0,0.0,0.0,10.58,,,Adidas,1998-09-07
+2022,Luis Romo,Mexico,MF,Monterrey,15,7.0,,,,,,,,,,Adidas,1995-06-05
+2022,Alexis Vega,Mexico,MF,Guadalajara,15,10.0,3.0,0.0,0.0,1.38,0.46,0.0,4.13,,,Adidas,1997-11-25
+2022,Luis Chavez,Mexico,MF,Pachuca,15,24.0,3.0,1.0,0.0,1.33,0.0,0.33,7.0,,,Adidas,1996-01-15
+2022,Raul Jimenez,Mexico,FW,Wolves,15,9.0,3.0,0.0,0.0,0.0,1.61,0.0,11.25,,,Adidas,1991-05-05
+2022,Hirving Lozano,Mexico,FW,Napoli,15,22.0,3.0,0.0,0.0,2.49,0.0,2.49,8.54,,,Adidas,1995-07-30
+2022,Henry Martin,Mexico,FW,America,15,20.0,2.0,1.0,0.0,0.0,1.82,0.61,6.08,,,Adidas,1992-11-18
+2022,Rogelio Funes Mori,Mexico,FW,Monterrey,15,11.0,1.0,0.0,0.0,0.0,0.0,,,,,Adidas,1991-03-05
+2022,Mohammed Al-Owais,Saudi Arabia,GK,Al-Hilal,49,21.0,3.0,,,,,,,73.68,0.0,Nike,1991-10-10
+2022,Mohammed Al Yami,Saudi Arabia,GK,Al-Ahli,49,1.0,0.0,,,,,,,,,Nike,1997-08-14
+2022,Nawaf Al-Aqidi,Saudi Arabia,GK,Al-Nassr,49,22.0,0.0,,,,,,,,,Nike,2000-05-10
+2022,Yasser Al-Shahrani,Saudi Arabia,DF,Al-Hilal,49,13.0,1.0,0.0,0.0,0.0,6.0,3.0,3.0,,,Nike,1992-05-25
+2022,Mohammed Al-Breik,Saudi Arabia,DF,Al-Hilal,49,6.0,2.0,0.0,0.0,0.0,0.0,1.38,5.53,,,Nike,1992-09-15
+2022,Ali Al-Bulaihi,Saudi Arabia,DF,Al-Hilal,49,5.0,3.0,0.0,0.0,0.0,1.24,1.66,4.56,,,Nike,1989-11-21
+2022,Sultan Al-Ghanam,Saudi Arabia,DF,Al-Nassr,49,2.0,3.0,0.0,0.0,1.44,1.44,0.0,0.0,,,Nike,1994-05-06
+2022,Saud Abdulhamid,Saudi Arabia,DF,Al-Hilal,49,12.0,3.0,0.0,0.0,1.0,0.33,1.67,6.66,,,Nike,1999-07-18
+2022,Abdulelah Al-Amri,Saudi Arabia,DF,Al-Nassr,49,4.0,3.0,0.0,0.0,0.0,1.98,0.49,,,,Nike,1997-01-15
+2022,Hassan Tambakti,Saudi Arabia,DF,Al-Shabab,49,17.0,2.0,0.0,0.0,0.0,1.0,2.0,5.5,,,Nike,1999-02-09
+2022,Abdullah Madu,Saudi Arabia,DF,Al-Nassr,49,3.0,1.0,0.0,0.0,0.0,2.05,2.05,6.14,,,Nike,1993-07-15
+2022,Nawaf Alabid,Saudi Arabia,MF,Al-Shabab,49,18.0,2.0,0.0,0.0,0.66,2.09,0.0,6.28,,,Nike,1990-01-26
+2022,Salman Al-Faraj,Saudi Arabia,MF,Al-Hilal,49,7.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,,,Nike,1989-08-01
+2022,Salem Al-Dawsari,Saudi Arabia,MF,Al-Hilal,49,10.0,3.0,2.0,0.0,2.33,0.33,1.67,3.66,,,Nike,1991-08-19
+2022,Abdullah Otayf,Saudi Arabia,MF,Al-Hilal,49,14.0,,,,,,,,,,Nike,1992-08-03
+2022,Mohamed Kanno,Saudi Arabia,MF,Al-Hilal,49,23.0,,,,,,,,,,Nike,1994-09-22
+2022,Abdulellah Al-Malki,Saudi Arabia,MF,Al-Hilal,49,8.0,2.0,0.0,0.0,0.0,1.54,2.06,4.11,,,Nike,1994-10-11
+2022,Sami Al-Najei,Saudi Arabia,MF,Al-Nassr,49,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,1997-02-07
+2022,Ali Al-Hassan,Saudi Arabia,MF,Al-Nassr,49,15.0,1.0,0.0,0.0,0.0,0.0,0.0,,,,Nike,1997-03-04
+2022,Nasser Al-Dawsari,Saudi Arabia,MF,Al-Hilal,49,24.0,1.0,0.0,0.0,0.0,0.0,,,,,Nike,1998-12-19
+2022,Abdulrahman Al-Aboud,Saudi Arabia,MF,Al-Ittihad,49,20.0,2.0,0.0,0.0,0.66,0.0,,,,,Nike,1995-06-01
+2022,Firas Al-Buraikan,Saudi Arabia,FW,Al-Fateh,49,9.0,3.0,0.0,1.0,1.67,0.67,1.0,6.36,,,Nike,2000-05-14
+2022,Saleh Al-Shehri,Saudi Arabia,FW,Al-Hilal,49,11.0,3.0,1.0,0.0,0.8,0.0,1.2,8.0,,,Nike,1993-11-01
+2022,Haitham Asiri,Saudi Arabia,FW,Al-Ahli,49,25.0,,,,,,,,,,Nike,2001-03-25
+2022,Kasper Schmeichel,Denmark,GK,Nice,18,1.0,3.0,,,,,,,72.73,33.0,Hummel,1986-11-05
+2022,Oliver Christensen,Denmark,GK,Hertha Berlin,18,16.0,0.0,,,,,,,,,Hummel,1999-03-22
+2022,Frederik Ronnow,Denmark,GK,Union Berlin,18,22.0,0.0,,,,,,,,,Hummel,1992-08-04
+2022,Simon Kjaer,Denmark,DF,AC Milan,18,4.0,1.0,0.0,0.0,0.0,6.92,0.0,8.3,,,Hummel,1989-03-26
+2022,Andreas Christensen,Denmark,DF,Barcelona,18,6.0,3.0,1.0,0.0,0.0,1.33,1.67,6.0,,,Hummel,1996-04-10
+2022,Jens Stryger Larsen,Denmark,DF,Trabzonspor,18,17.0,,,,,,,,,,Hummel,1991-02-21
+2022,Daniel Wass,Denmark,DF,Brondby,18,18.0,,,,,,,,,,Hummel,1989-05-31
+2022,Rasmus Kristensen,Denmark,DF,Leeds United,18,13.0,3.0,0.0,0.0,1.59,0.8,3.58,6.77,,,Hummel,
+2022,Joakim Maehle,Denmark,DF,Atalanta,18,5.0,3.0,0.0,0.0,3.25,0.72,3.25,5.42,,,Hummel,1997-05-20
+2022,Joachim Andersen,Denmark,DF,Crystal Palace,18,2.0,3.0,0.0,1.0,,,,,,,Hummel,1996-05-31
+2022,Thomas Delaney,Denmark,DF,Sevilla,18,8.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,,,Hummel,1991-09-03
+2022,Victor Nelsson,Denmark,DF,Galatasaray,18,3.0,1.0,0.0,0.0,0.0,2.0,0.0,10.0,,,Hummel,1998-10-14
+2022,Alexander Bah,Denmark,DF,Benfica,18,26.0,2.0,0.0,0.0,0.5,4.06,,,,,Hummel,1997-12-09
+2022,Christian Eriksen,Denmark,MF,Manchester United,18,10.0,3.0,0.0,0.0,1.33,0.33,0.33,0.67,,,Hummel,1992-02-14
+2022,Christian Norgaard,Denmark,MF,Brentford,18,15.0,1.0,0.0,0.0,,,,,,,Hummel,1994-03-10
+2022,Pierre-Emile Hojbjerg,Denmark,MF,Tottenham,18,23.0,3.0,0.0,0.0,0.67,1.33,1.33,2.66,,,Hummel,1995-08-05
+2022,Mathias Jensen,Denmark,MF,Brentford,18,7.0,,,,,,,,,,Hummel,1996-01-01
+2022,Robert Skov,Denmark,FW,Hoffenheim,18,24.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,,Hummel,1996-05-20
+2022,Martin Braithwaite,Denmark,FW,Espanyol,18,9.0,2.0,0.0,0.0,1.75,0.0,0.0,2.62,,,Hummel,1991-06-05
+2022,Andreas Cornelius,Denmark,FW,Copenhagen,18,21.0,3.0,0.0,0.0,0.98,0.0,0.0,,,,Hummel,1993-03-16
+2022,Kasper Dolberg,Denmark,FW,Sevilla,18,12.0,3.0,0.0,0.0,1.59,0.0,0.8,3.19,,,Hummel,1997-10-06
+2022,Andreas Skov Olsen,Denmark,FW,Club Brugge,18,11.0,2.0,0.0,0.0,1.34,0.0,0.0,2.01,,,Hummel,1999-12-29
+2022,Mikkel Damsgaard,Denmark,FW,Brentford,18,14.0,3.0,0.0,0.0,0.6,0.6,2.42,3.02,,,Hummel,2000-07-03
+2022,Jonas Wind,Denmark,FW,Wolfsburg,18,19.0,,,,,,,,,,Hummel,1999-02-07
+2022,Jesper Lindstrom,Denmark,FW,Eintracht Frankfurt,18,25.0,3.0,0.0,0.0,5.4,0.0,0.45,4.95,,,Hummel,2000-02-29
+2022,Yussuf Yurary Poulsen,Denmark,FW,RB Leipzig,18,20.0,,,,,,,,,,Hummel,1994-06-15
+2022,Aymen Dahmen,Tunisia,GK,CS Sfaxien,30,16.0,,,,,,,,,,Kappa,1997-01-27
+2022,Mouez Hassen,Tunisia,GK,Club Africain,30,26.0,,,,,,,,,,Kappa,1995-03-05
+2022,Balbouli,Tunisia,GK,Etoile du Sahel,30,1.0,,,,,,,,,,Kappa,1984-09-14
+2022,Bechir Ben Saïd,Tunisia,GK,US Monastir,30,22.0,,,,,,,,,,Kappa,1994-11-29
+2022,Mohamed Drager,Tunisia,DF,Luzern,30,20.0,2.0,0.0,0.0,1.34,0.67,3.36,7.38,,,Kappa,1996-06-25
+2022,Wajdi Kechrida,Tunisia,DF,Atromitos,30,21.0,3.0,0.0,0.0,3.3,0.0,2.48,4.96,,,Kappa,1995-11-05
+2022,Bilel Ifa,Tunisia,DF,Kuwait SC,30,2.0,,,,,,,,,,Kappa,1990-03-09
+2022,Montassar Talbi,Tunisia,DF,Lorient,30,3.0,3.0,0.0,0.0,0.0,0.33,1.0,7.0,,,Kappa,1998-05-26
+2022,Dylan Bronn,Tunisia,DF,Salernitana,30,6.0,2.0,0.0,0.0,0.0,0.0,1.66,4.41,,,Kappa,1995-06-19
+2022,Yassine Meriah,Tunisia,DF,Esperalace,30,4.0,,,,,,,,,,Kappa,1993-07-02
+2022,Nader Ghandri,Tunisia,DF,Club Africain,30,5.0,,,,,,,,,,Kappa,1995-02-18
+2022,Ali Maaloul,Tunisia,DF,Al Ahly,30,12.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,,,Kappa,1990-01-01
+2022,Ali Abdi,Tunisia,DF,Caen,30,24.0,,,,,,,,,,Kappa,1993-12-20
+2022,Ellyes Skhiri,Tunisia,MF,FC Koln,30,17.0,3.0,0.0,0.0,0.67,2.33,3.33,5.0,,,Kappa,1995-05-10
+2022,Aissa Laidouni,Tunisia,MF,Ferencvaros,30,14.0,3.0,0.0,1.0,1.1,1.1,1.1,1.47,,,Kappa,1996-12-13
+2022,Ferjani Sassi,Tunisia,MF,Al-Duhail,30,13.0,2.0,0.0,0.0,1.0,1.96,3.91,,,,Kappa,1992-03-18
+2022,Ghailene Chaalali,Tunisia,MF,Esperance de Tunis,30,18.0,,,,,,,,,,Kappa,1994-02-28
+2022,Hannibal Mejbri,Tunisia,MF,Manchester United,30,8.0,1.0,0.0,0.0,0.0,,,,,,Kappa,2003-01-21
+2022,Mohamed Ali Ben Romdhane,Tunisia,MF,Esperance de Tunis,30,15.0,1.0,0.0,0.0,1.22,0.0,6.08,,,,Kappa,1999-09-06
+2022,Seifeddine Jaziri,Tunisia,FW,Zamalek,30,19.0,,,,,,,,,,Kappa,1993-02-12
+2022,Naim Sliti,Tunisia,FW,Al-Ettifaq,30,26.0,2.0,0.0,0.0,4.78,0.0,2.39,,,,Kappa,1992-07-27
+2022,Taha Yassine Khenissi,Tunisia,FW,Kuwait SC,30,11.0,2.0,0.0,0.0,0.0,0.0,0.0,3.33,,,Kappa,1992-01-06
+2022,Anis Ben Slimane,Tunisia,FW,Brondby,30,25.0,2.0,0.0,0.0,0.6,0.6,1.8,9.0,,,Kappa,2001-03-16
+2022,Issam Jebali,Tunisia,FW,OB,30,9.0,3.0,0.0,0.0,0.98,0.0,1.48,4.91,,,Kappa,1991-12-25
+2022,Wahbi Khazri,Tunisia,FW,Montpellier,30,10.0,2.0,1.0,0.0,1.0,0.0,2.17,4.34,,,Kappa,1991-02-08
+2022,Youssef Msakni,Tunisia,FW,Al-Duhail,30,7.0,2.0,0.0,0.0,2.65,0.0,1.59,9.0,,,Kappa,1990-10-28
+2022,Manuel Neuer,Germany,GK,Bayern Munich,14,1.0,3.0,,,,,,,61.54,0.0,Adidas,1986-03-27
+2022,Marc-Andre ter Stegen,Germany,GK,Barcelona,14,22.0,0.0,,,,,,,,,Adidas,1992-04-30
+2022,Kevin Trapp,Germany,GK,Eintracht Frankfurt,14,12.0,0.0,,,,,,,,,Adidas,1990-07-08
+2022,Antonio Rudiger,Germany,DF,Real Madrid,14,2.0,3.0,0.0,0.0,0.0,0.0,0.67,5.67,,,Adidas,1993-03-03
+2022,Matthias Ginter,Germany,DF,Freiburg,14,4.0,,,,,,,,,,Adidas,1994-01-18
+2022,Niklas Sule,Germany,DF,Borussia Dortmund,14,15.0,3.0,0.0,0.0,0.0,0.0,1.67,6.33,,,Adidas,1995-09-03
+2022,Thilo Kehrer,Germany,DF,West Ham,14,5.0,1.0,0.0,0.0,0.0,2.57,7.71,7.71,,,Adidas,1996-09-21
+2022,Lukas Klostermann,Germany,DF,RB Leipzig,14,16.0,2.0,0.0,0.0,0.0,0.0,4.22,4.22,,,Adidas,1996-06-03
+2022,David Raum,Germany,DF,RB Leipzig,14,3.0,3.0,0.0,1.0,1.11,2.58,1.84,7.37,,,Adidas,1998-04-22
+2022,Christian Gunter,Germany,DF,Freiburg,14,20.0,,,,,,,,,,Adidas,1993-02-28
+2022,Nico Schlotterbeck,Germany,DF,Borussia Dortmund,14,23.0,2.0,0.0,0.0,1.94,0.97,3.87,8.71,,,Adidas,1999-12-01
+2022,Armel Bella-Kotchap,Germany,DF,Southampton,14,25.0,,,,,,,,,,Adidas,2001-12-11
+2022,Joshua Kimmich,Germany,MF,Bayern Munich,14,6.0,3.0,0.0,0.0,1.67,1.33,1.67,4.67,,,Adidas,1995-02-08
+2022,Mario Gotze,Germany,MF,Eintracht Frankfurt,14,11.0,2.0,0.0,0.0,1.0,0.0,,,,,Adidas,1992-06-03
+2022,Ilkay Gundogan,Germany,MF,Manchester City,14,21.0,3.0,1.0,0.0,0.94,0.47,1.41,6.1,,,Adidas,1990-10-24
+2022,Leon Goretzka,Germany,MF,Bayern Munich,14,8.0,3.0,0.0,0.0,0.0,0.57,2.83,7.93,,,Adidas,1995-02-06
+2022,Julian Brandt,Germany,MF,Borussia Dortmund,14,17.0,,,,,,,,,,Adidas,1996-05-02
+2022,Kai Havertz,Germany,MF,Chelsea,14,7.0,2.0,2.0,0.0,0.0,0.87,0.87,0.87,,,Adidas,1999-06-11
+2022,Jamal Musiala,Germany,MF,Bayern Munich,14,14.0,3.0,0.0,1.0,10.08,0.35,0.35,9.04,,,Adidas,2003-02-26
+2022,Jonas Hofmann,Germany,MF,Borussia Monchengladbach,14,18.0,2.0,0.0,0.0,3.21,0.0,0.0,0.0,,,Adidas,1992-07-14
+2022,Thomas Muller,Germany,FW,Bayern Munich,14,13.0,3.0,0.0,0.0,0.0,0.44,0.89,2.21,,,Adidas,1989-09-13
+2022,Leroy Sane,Germany,FW,Bayern Munich,14,19.0,2.0,0.0,1.0,4.09,0.0,0.82,3.87,,,Adidas,1996-01-11
+2022,Serge Gnabry,Germany,FW,Bayern Munich,14,10.0,3.0,1.0,1.0,1.7,68.0,1.7,3.4,,,Adidas,1995-07-14
+2022,Karim Adeyemi,Germany,FW,Borussia Dortmund,14,24.0,,,,,,,,,,Adidas,2002-01-18
+2022,Niclas Fullkrug,Germany,FW,Werder Bremen,14,9.0,3.0,2.0,1.0,0.33,0.0,0.0,13.63,,,Adidas,1993-02-09
+2022,Youssoufa Moukoko,Germany,FW,Borussia Dortmund,14,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Adidas,2004-11-20
+2022,Keylor Navas,Costa Rica,GK,PSG,32,1.0,3.0,,,,,,,50.0,33.0,New Balance,1986-12-15
+2022,Esteban Alvarado,Costa Rica,GK,Herediano,32,18.0,0.0,,,,,,,,,New Balance,1989-04-28
+2022,Patrick Sequeira,Costa Rica,GK,Lugo,32,23.0,0.0,,,,,,,,,New Balance,1999-03-01
+2022,Bryan Oviedo,Costa Rica,DF,Real Salt Lake,32,8.0,,,,,,,,,,New Balance,1990-02-18
+2022,Oscar Duarte,Costa Rica,DF,Al-Wehda,32,6.0,3.0,0.0,0.0,0.0,2.33,1.33,2.67,,,New Balance,1989-06-03
+2022,Kendall Waston,Costa Rica,DF,Aprissa,32,19.0,3.0,0.0,0.0,0.0,2.01,2.81,6.02,,,New Balance,1988-01-01
+2022,Ronald Matarrita,Costa Rica,DF,Cincinnati,32,22.0,,,,,,,,,,New Balance,1994-07-09
+2022,Keysher Fuller,Costa Rica,DF,Herediano,32,4.0,3.0,1.0,0.0,0.71,0.71,1.77,3.54,,,New Balance,1994-07-12
+2022,Juan Pablo Vargas,Costa Rica,DF,Millonarios,32,3.0,,,,,,,,,,New Balance,1995-06-06
+2022,Carlos Martinez,Costa Rica,DF,San Carlos,32,16.0,1.0,0.0,0.0,0.0,1.96,1.96,5.87,,,New Balance,1999-03-30
+2022,Celso Borges,Costa Rica,MF,Alajuelense,32,5.0,3.0,0.0,0.0,0.72,1.79,1.79,6.81,,,New Balance,1988-05-27
+2022,Bryan Ruiz,Costa Rica,MF,Alajuelense,32,10.0,,,,,,,,,,New Balance,1985-08-18
+2022,Yeltsin Tejeda,Costa Rica,MF,Herediano,32,17.0,3.0,1.0,1.0,33.0,0.33,1.33,4.66,,,New Balance,1992-03-17
+2022,Gerson Torres,Costa Rica,MF,Herediano,32,13.0,1.0,0.0,0.0,0.0,0.0,0.0,11.08,,,New Balance,1997-08-28
+2022,Jewison Bennette,Costa Rica,MF,Sunderland,32,9.0,3.0,0.0,0.0,3.53,0.0,0.0,2.65,,,New Balance,2004-06-15
+2022,Daniel Chacon,Costa Rica,MF,Colorado Rapids,32,2.0,,,,,,,,,,New Balance,2001-04-11
+2022,Youstin Salas,Costa Rica,MF,Saprissa,32,14.0,,,,,,,,,,New Balance,1996-06-17
+2022,Roan Wilson,Costa Rica,MF,Municipal Grecia,32,24.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,New Balance,2002-05-01
+2022,Brandon Aguilera,Costa Rica,MF,Nottingham Forest,32,20.0,3.0,0.0,0.0,,,,,,,New Balance,2003-06-28
+2022,Douglas Lopez,Costa Rica,MF,Herediano,32,21.0,,,,,,,,,,New Balance,1998-09-21
+2022,Anthony Hernandez,Costa Rica,MF,Puntarenas,32,25.0,,,,,,,,,,New Balance,2001-10-11
+2022,Alvaro Zamora,Costa Rica,MF,Saprissa,32,26.0,,,,,,,,,,New Balance,2002-03-09
+2022,Joel Campbell,Costa Rica,FW,Leon,32,12.0,3.0,0.0,0.0,3.0,0.0,3.0,12.0,,,New Balance,1992-06-26
+2022,Johan Venegas,Costa Rica,FW,Alajuelense,32,11.0,1.0,0.0,0.0,1.22,0.0,0.0,1.22,,,New Balance,1988-11-27
+2022,Anthony Contreras,Costa Rica,FW,Herediano,32,7.0,3.0,0.0,0.0,0.0,0.71,3.57,11.43,,,New Balance,2000-01-29
+2022,Thibaut Courtois,Belgium,GK,Real Madrid,4,1.0,3.0,,,,,,,81.82,67.0,Adidas,1992-05-11
+2022,Simon Mignolet,Belgium,GK,Club Brugge,4,12.0,0.0,,,,,,,,,Adidas,1988-03-06
+2022,Koen Casteels,Belgium,GK,Wolfsburg,4,13.0,0.0,,,,,,,,,Adidas,1992-06-25
+2022,Toby Alderweireld,Belgium,DF,Antwerp,4,2.0,3.0,0.0,1.0,0.0,0.0,1.33,2.0,,,Adidas,1989-03-02
+2022,Arthur Theate,Belgium,DF,Rennes,4,3.0,,,,,,,,,,Adidas,2000-05-25
+2022,Zeno Debast,Belgium,DF,Anderlecht,4,26.0,,,,,,,,,,Adidas,2003-10-24
+2022,Jan Vertonghen,Belgium,DF,Anderlecht,4,5.0,3.0,0.0,0.0,0.0,1.67,0.0,9.34,,,Adidas,1987-04-24
+2022,Wout Faes,Belgium,DF,Leicester City,4,4.0,,,,,,,,,,Adidas,1998-04-03
+2022,Timothy Castagne,Belgium,DF,Leicester,4,21.0,3.0,0.0,0.0,0.33,0.67,2.0,4.33,,,Adidas,1995-12-05
+2022,Thomas Meunier,Belgium,DF,Borussia Dortmund,4,15.0,3.0,0.0,0.0,0.85,0.85,2.55,5.1,,,Adidas,1991-09-12
+2022,Thorgan Hazard,Belgium,MF,Borussia Dortmund,4,16.0,2.0,0.0,0.0,1.7,0.0,2.55,4.25,,,Adidas,1993-03-29
+2022,Kevin De Bruyne,Belgium,MF,Manchester City,4,7.0,3.0,0.0,0.0,1.67,0.0,0.33,4.33,,,Adidas,1991-06-28
+2022,Yannick Carrasco,Belgium,MF,Atletico Madrid,4,11.0,2.0,0.0,0.0,2.29,0.76,3.81,6.1,,,Adidas,1993-09-04
+2022,Leander Dendoncker,Belgium,MF,Aston Villa,4,19.0,,,,,,,,,,Adidas,1995-04-15
+2022,Youri Tielemans,Belgium,MF,Leicester City,4,8.0,3.0,0.0,0.0,0.0,1.91,2.87,7.65,,,Adidas,1997-05-07
+2022,Hans Vanaken,Belgium,MF,Club Brugge,4,20.0,,,,,,,,,,Adidas,1992-08-24
+2022,Axel Witsel,Belgium,MF,Atletico Madrid,4,6.0,3.0,0.0,0.0,0.0,1.33,1.33,5.66,,,Adidas,1989-01-12
+2022,Charles De Ketelaere,Belgium,MF,AC Milan,4,22.0,1.0,0.0,0.0,,,,,,,Adidas,2001-03-10
+2022,Jeremy Doku,Belgium,FW,Rennes,4,25.0,,,,,,,,,,Adidas,2002-05-27
+2022,Eden Hazard,Belgium,FW,Real Madrid,4,10.0,2.0,0.0,0.0,5.04,0.72,0.0,9.36,,,Adidas,1991-01-07
+2022,Dries Mertens,Belgium,FW,Galatasaray,4,14.0,2.0,0.0,0.0,1.18,0.0,2.37,3.55,,,Adidas,1987-05-06
+2022,Leandro Trossard,Belgium,FW,Brighton,4,17.0,3.0,0.0,0.0,3.53,0.0,0.0,1.76,,,Adidas,1994-12-04
+2022,Michy Batshuayi,Belgium,FW,Fenerbahce,4,23.0,2.0,1.0,0.0,1.76,0.0,0.59,3.04,,,Adidas,1993-10-02
+2022,Lois Openda,Belgium,FW,Lens,4,24.0,1.0,0.0,0.0,1.0,0.0,7.5,,,,Adidas,2000-02-16
+2022,Romelu Lukaku,Belgium,FW,Inter,4,9.0,2.0,0.0,0.0,1.7,0.0,0.0,5.1,,,Adidas,1993-05-13
+2022,Andre Onana,Cameroon,GK,Inter,33,23.0,1.0,,,,,,,66.67,0.0,One All Sports,1996-04-02
+2022,Davis Epassy,Cameroon,GK,Abha,33,16.0,2.0,,,,,,,75.0,50.0,One All Sports,1993-02-02
+2022,Simon Ngapandouetnbu,Cameroon,GK,Marseille,33,1.0,0.0,,,,,,,,,One All Sports,1993-04-12
+2022,Enzo Ebosse,Cameroon,DF,Udinese,33,24.0,1.0,0.0,0.0,0.0,0.0,4.0,,,,One All Sports,1999-03-11
+2022,Collins Fai,Cameroon,DF,Al-Tai,33,19.0,3.0,0.0,0.0,0.33,1.33,1.0,3.1,,,One All Sports,1992-08-13
+2022,Olivier Mbaizo,Cameroon,DF,Philadelphia Union,33,17.0,,,,,,,,,,One All Sports,1997-08-15
+2022,Jean Charles Castelletto,Cameroon,DF,Nantes,33,21.0,2.0,1.0,1.0,0.0,3.0,1.5,6.0,,,One All Sports,1995-01-26
+2022,Nouhou Tolo,Cameroon,DF,Seattle Sounders,33,25.0,3.0,0.0,0.0,1.67,2.0,3.0,6.33,,,One All Sports,1997-06-23
+2022,Christopher Wooh,Cameroon,DF,Rennes,33,4.0,1.0,0.0,0.0,0.0,1.0,2.0,2.0,,,One All Sports,
+2022,Olivier Ntcham,Cameroon,MF,Swansea City,33,22.0,1.0,0.0,0.0,1.0,0.0,0.0,4.09,,,One All Sports,1996-02-09
+2022,Gael Ondoua,Cameroon,MF,Hannover,33,5.0,2.0,0.0,0.0,0.0,4.0,4.0,10.0,,,One All Sports,1995-11-04
+2022,Pierre Kunde,Cameroon,MF,Olympiacos,33,15.0,2.0,0.0,0.0,0.0,2.67,2.67,4.67,,,One All Sports,1995-07-26
+2022,Samuel Gouet,Cameroon,MF,Mechelen,33,14.0,2.0,0.0,0.0,0.0,0.0,0.91,3.64,,,One All Sports,1997-12-14
+2022,Andre-Frank Zambo Anguissa,Cameroon,MF,Napoli,33,8.0,3.0,0.0,0.0,1.38,1.72,1.38,6.55,,,One All Sports,1995-11-16
+2022,Jerome Ngom,Cameroon,MF,San Diego Loyal SC,33,2.0,,,,,,,,,,One All Sports,
+2022,Moumi Ngamaleu,Cameroon,FW,Dynamo Moscow,33,6.0,2.0,0.0,0.0,2.84,0.0,2.84,9.47,,,One All Sports,1994-07-09
+2022,Christian Bassogog,Cameroon,FW,Shanghai Shenhua,33,11.0,1.0,0.0,0.0,4.0,3.91,0.0,,,,One All Sports,1995-10-18
+2022,Bryan Mbeumo,Cameroon,FW,Brentford,33,20.0,,,,,,,,,,One All Sports,1995-08-07
+2022,Georges-Kevin Nkoudou,Cameroon,FW,Besiktas,33,7.0,2.0,0.0,0.0,1.0,0.0,0.0,3.6,,,One All Sports,1995-02-13
+2022,Jean-Pierre Nsame,Cameroon,FW,Young Boys,33,9.0,,,,,,,,,,One All Sports,1993-05-01
+2022,Vincent Aboubakar,Cameroon,FW,Al-Nassr,33,10.0,3.0,2.0,1.0,3.83,0.0,0.0,6.39,,,One All Sports,1992-01-22
+2022,Karl Toko Ekambi,Cameroon,FW,Lyon,33,12.0,3.0,0.0,0.0,2.16,0.54,0.54,3.77,,,One All Sports,1992-09-14
+2022,Eric Maxim Choupo-Moting,Cameroon,FW,Bayern Munich,33,13.0,3.0,1.0,0.0,2.48,0.35,1.42,10.63,,,One All Sports,1989-03-23
+2022,Souaibou Marou,Cameroon,FW,Coton Sport de Garoua,33,26.0,,,,,,,,,,One All Sports,2000-12-03
+2022,Marko Dmitrovic,Serbia,GK,Sevilla,29,1.0,0.0,,,,,,,,,Puma,
+2022,Vanja Milinkovic-Savic,Serbia,GK,Torino,29,23.0,3.0,,,,,,,65.22,0.0,Puma,
+2022,Stefan Mitrovic,Serbia,DF,Getafe,29,13.0,0.0,,,,,,,,,Puma,1990-05-22
+2022,Filip Mladenovic,Serbia,DF,Legia Warsaw,29,25.0,1.0,0.0,0.0,2.73,0.0,0.0,2.72,,,Puma,
+2022,Strahinja Pavlovic,Serbia,DF,Salzburg,29,2.0,3.0,1.0,0.0,0.38,0.38,3.05,14.11,,,Puma,2001-05-24
+2022,Milos Veljkovic,Serbia,DF,Werder Bremen,29,5.0,3.0,0.0,0.0,0.0,0.0,1.21,2.83,,,Puma,
+2022,Strahinja Erakovic,Serbia,DF,Red Star Belgrade,29,3.0,,,,,,,,,,Puma,
+2022,Srdan Babic,Serbia,DF,Almeria,29,16.0,1.0,0.0,0.0,0.0,0.0,7.5,7.5,,,Puma,
+2022,Nikola Milenkovic,Serbia,DF,Fiorentina,29,4.0,3.0,0.0,0.0,0.0,1.67,3.33,8.0,,,Puma,
+2022,Nemanja Gudelj,Serbia,MF,Sevilla,29,8.0,2.0,0.0,0.0,0.0,0.98,1.96,3.91,,,Puma,
+2022,Filip Kostic,Serbia,MF,Juventus,29,17.0,2.0,0.0,0.0,1.0,0.0,3.0,3.5,,,Puma,
+2022,Nemanja Maksimovic,Serbia,MF,Getafe,29,6.0,3.0,0.0,0.0,0.0,2.27,2.27,3.03,,,Puma,
+2022,Sergej Milinkovic-Savic,Serbia,MF,Lazio,29,20.0,3.0,1.0,0.0,1.91,0.76,1.91,6.86,,,Puma,
+2022,Sasa Lukic,Serbia,MF,Torino,29,16.0,3.0,0.0,0.0,0.37,0.37,0.73,2.3,,,Puma,
+2022,Andrija Zivkovic,Serbia,MF,PAOK,29,14.0,3.0,0.0,2.0,0.42,1.27,2.11,5.5,,,Puma,
+2022,Uros Racic,Serbia,MF,Braga,29,19.0,,,,,,,,,,Puma,
+2022,Ivan Ilic,Serbia,MF,Verona,29,24.0,1.0,0.0,0.0,0.0,2.73,0.0,5.46,,,Puma,
+2022,Darko Lazovic,Serbia,MF,Verona,29,22.0,1.0,0.0,0.0,0.0,0.0,0.0,3.75,,,Puma,
+2022,Marko Grujic,Serbia,MF,Porto,29,26.0,1.0,0.0,0.0,1.0,0.0,7.5,,,,Puma,
+2022,Aleksandr Mitrovic,Serbia,FW,Fulham,29,9.0,3.0,2.0,0.0,0.34,0.0,0.34,4.45,,,Puma,
+2022,Dusan Vlahovic,Serbia,FW,Juventus,29,18.0,2.0,1.0,0.0,1.14,0.0,1.14,7.98,,,Puma,
+2022,Nemanja Radonjic,Serbia,FW,Torino,29,7.0,3.0,0.0,0.0,3.16,0.0,0.0,3.16,,,Puma,
+2022,Filip Duricic,Serbia,FW,Sampdoria,29,21.0,2.0,0.0,0.0,0.0,0.0,0.0,,,,Puma,
+2022,Dusan Tadic,Serbia,FW,Ajax,29,10.0,3.0,0.0,2.0,2.09,0.35,1.4,3.84,,,Puma,
+2022,Manaf Nurudeen,Ghana,GK,Eupen,58,16.0,0.0,,,,,,,,,Puma,1999-02-08
+2022,Danlad Ibrahim,Ghana,GK,Asante Kotoko,58,12.0,0.0,,,,,,,,,Puma,2002-12-02
+2022,Lawrence Ati Zigi,Ghana,GK,St. Gellen,58,1.0,3.0,,,,,,,58.82,0.0,Puma,1996-11-29
+2022,Denis Odoi,Ghana,DF,Club Brugge,58,3.0,1.0,0.0,0.0,0.58,0.0,7.5,7.5,,,Puma,1988-05-27
+2022,Tariq Lamptey,Ghana,DF,Brighton,58,2.0,2.0,0.0,0.0,1.76,0.88,3.53,5.29,,,Puma,
+2022,Alidu Seidu,Ghana,DF,Clermont,58,26.0,2.0,0.0,0.0,2.31,0.0,3.46,9.81,,,Puma,2000-06-04
+2022,Daniel Amartey,Ghana,DF,Leicester City,58,18.0,3.0,0.0,0.0,0.33,1.0,2.0,6.0,,,Puma,1994-12-21
+2022,Joseph Aidoo,Ghana,DF,Celta Vigo,58,15.0,,,,,,,,,,Puma,1995-09-29
+2022,Alexander Djiku,Ghana,DF,Strasbourg,58,23.0,2.0,0.0,0.0,0.0,0.93,0.93,6.5,,,Puma,1994-08-09
+2022,Mohammed Salisu,Ghana,DF,Southampton,58,4.0,3.0,1.0,0.0,0.0,1.0,0.67,6.34,,,Puma,1999-04-17
+2022,Abdul-Rahman Baba,Ghana,DF,Reading,58,17.0,3.0,0.0,0.0,1.98,0.49,2.47,6.93,,,Puma,1994-07-02
+2022,Gideon Mensah,Ghana,DF,Auxerre,58,14.0,1.0,0.0,0.0,0.0,2.05,1.02,9.2,,,Puma,1998-07-18
+2022,Andre Ayew,Ghana,MF,Al-Sadd,58,10.0,3.0,1.0,0.0,0.45,0.0,1.79,7.61,,,Puma,1989-12-17
+2022,Thomas Partey,Ghana,MF,Arsenal,58,5.0,3.0,0.0,0.0,0.67,0.0,3.0,8.33,,,Puma,1993-06-13
+2022,Elisha Owusu,Ghana,MF,Gent,58,6.0,,,,,,,,,,Puma,1997-11-07
+2022,Salis Abdul Samed,Ghana,MF,Lens,58,21.0,3.0,0.0,0.0,1.07,1.43,0.71,2.5,,,Puma,2000-03-26
+2022,Mohammed Kudus,Ghana,MF,Ajax,58,20.0,3.0,2.0,0.0,4.34,0.36,1.81,6.51,,,Puma,2000-08-02
+2022,Daniel Kofi Kyereh,Ghana,MF,SC Freiburg,58,8.0,3.0,0.0,0.0,2.0,0.0,6.0,,,,Puma,1996-03-09
+2022,Daniel Barnieh Afriyie,Ghana,FW,Hearts of Oak,58,13.0,,,,,,,,,,Puma,2001-06-26
+2022,Kamal Sowah,Ghana,FW,Club Brugge,58,24.0,,,,,,,,,,Puma,2000-01-09
+2022,Issahaku Abdul Fatawu,Ghana,FW,Sporting CP,58,7.0,,,,,,,,,,Puma,2004-03-08
+2022,Osman Bukari,Ghana,FW,Red Star Belgrade,58,11.0,2.0,1.0,0.0,2.0,0.0,1.55,3.1,,,Puma,1998-12-13
+2022,Inaki Williams,Ghana,FW,Athletic Club,58,19.0,3.0,0.0,1.0,36.0,0.0,1.07,3.57,,,Puma,1994-06-15
+2022,Antoine Semenyo,Ghana,FW,Bristol City,58,25.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,,,Puma,2000-01-07
+2022,Jordan Ayew,Ghana,FW,Crystal Palace,58,9.0,3.0,0.0,1.0,2.63,0.66,1.97,5.91,,,Puma,1991-09-11
+2022,Kamaldeen Sulemana,Ghana,FW,Rennes,58,22.0,,,,,,,,,,Puma,2002-02-15
+2022,Fernando Muslera,Uruguay,GK,Galatasaray,16,1.0,,,,,,,,,,Puma,
+2022,Sergio Rochet,Uruguay,GK,Nacional,16,23.0,,,,,,,,,,Puma,
+2022,Sebastian Sosa,Uruguay,GK,Independiente,16,12.0,,,,,,,,,,Puma,
+2022,Ronald Araujo,Uruguay,DF,Barcelona,16,4.0,,,,,,,,,,Puma,
+2022,Martin Caceres,Uruguay,DF,La Galaxy,16,22.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,,,Puma,
+2022,Sebastian Coates,Uruguay,DF,Sporting CP,16,19.0,2.0,0.0,0.0,0.0,0.5,0.5,7.5,,,Puma,
+2022,Jose Maria Gimenez,Uruguay,DF,Atletico Madrid,16,2.0,3.0,0.0,0.0,0.0,2.33,1.33,7.0,,,Puma,
+2022,Diego Godin,Uruguay,DF,Velez Sarsfield,16,3.0,,,,,,,,,,Puma,
+2022,Mathias Olivera,Uruguay,DF,Napoli,16,16.0,3.0,0.0,0.0,0.71,0.71,3.18,8.47,,,Puma,
+2022,Jose Luis Rodriguez,Uruguay,DF,Nacional,16,26.0,,,,,,,,,,Puma,
+2022,Matias Vina,Uruguay,DF,Roma,16,17.0,,,,,,,,,,Puma,
+2022,Guillermo Varela,Uruguay,DF,Flamengo,16,13.0,3.0,0.0,0.0,0.99,1.48,1.98,6.92,,,Puma,
+2022,Matias Vecino,Uruguay,MF,Lazio,16,5.0,3.0,0.0,0.0,0.0,1.37,1.83,4.57,,,Puma,
+2022,Nicolás de la Cruz,Uruguay,MF,River Plate,16,7.0,2.0,0.0,0.0,0.5,0.0,0.0,5.14,,,Puma,
+2022,Rodrigo Bentancur,Uruguay,MF,Tottenham Hotspur,16,6.0,3.0,0.0,0.0,2.1,2.94,3.79,11.35,,,Puma,
+2022,Federico Valverde,Uruguay,MF,Real Madrid,16,15.0,3.0,0.0,0.0,1.0,1.67,1.67,3.33,,,Puma,
+2022,Giorgian de Arrascaeta,Uruguay,MF,Flamengo,16,10.0,,,,,,,,,,Puma,
+2022,Lucas Torreira,Uruguay,MF,Galatasaray,16,14.0,,,,,,,,,,Puma,
+2022,Facundo Torres,Uruguay,MF,Orlando City,16,20.0,,,,,,,,,,Puma,
+2022,Manuel Ugarte,Uruguay,MF,Sporting CP,16,25.0,,,,,,,,,,Puma,
+2022,Luis Suarez,Uruguay,FW,Nacional,16,9.0,,,,,,,,,,Puma,
+2022,Edinson Cavani,Uruguay,FW,Valencia,16,21.0,3.0,0.0,0.0,0.0,0.0,0.0,1.48,,,Puma,
+2022,Maxi Gomez,Uruguay,FW,Trabzonspor,16,18.0,2.0,0.0,0.0,0.0,0.0,0.0,,,,Puma,
+2022,Darwin Nunez,Uruguay,FW,Liverpool,16,11.0,3.0,0.0,0.0,0.74,0.0,1.12,5.95,,,Puma,
+2022,Facundo Pellistri,Uruguay,FW,Manchester United,16,8.0,3.0,0.0,0.0,2.97,0.0,0.99,1.98,,,Puma,
+2022,Agustin Canobbio,Uruguay,FW,Athletico Paranaense,16,24.0,,,,,,,,,,Puma,
+2022,James Paternis,Canada,GK,CF Montreal,53,16.0,0.0,,,,,,,,,Nike,1997-02-21
+2022,Milan Borjan,Canada,GK,Red Star Belgrade,53,18.0,3.0,,,,,,,53.33,0.0,Nike,1987-10-23
+2022,Dayne St Clair,Canada,GK,Minnesota United,53,1.0,0.0,,,,,,,,,Nike,1997-05-09
+2022,Alistair Johnson,Canada,DF,Celtic,53,2.0,3.0,0.0,0.0,0.33,0.67,1.33,4.67,,,Nike,1998-10-08
+2022,Sam Adekugbe,Canada,DF,Hatayspor,53,3.0,3.0,0.0,0.0,0.95,0.95,0.0,4.73,,,Nike,1995-01-16
+2022,Kamal Miller,Canada,DF,Montreal Impact,53,4.0,3.0,0.0,0.0,0.67,1.0,2.0,7.33,,,Nike,1997-05-16
+2022,Steven Vitória,Canada,DF,GD Chaves,53,5.0,3.0,0.0,0.0,0.0,0.0,1.33,5.66,,,Nike,1987-01-11
+2022,Richie Laryea,Canada,DF,Toronto,53,22.0,3.0,0.0,0.0,2.0,0.0,1.68,3.91,,,Nike,1995-01-07
+2022,Derek Cornelius,Canada,DF,Panaitolikos,53,25.0,,,,,,,,,,Nike,1997-11-25
+2022,Joel Waterman,Canada,DF,Montreal Impact,53,26.0,,,,,,,,,,Nike,1996-01-24
+2022,Samuel Piette,Canada,MF,Montreal Impact,53,6.0,,,,,,,,,,Nike,1994-11-12
+2022,Stephen Eustaquio,Canada,MF,Porto,53,7.0,2.0,0.0,0.0,0.71,1.42,2.83,5.67,,,Nike,1996-12-21
+2022,Atiba Hutchinson,Canada,MF,Besiktas,53,13.0,3.0,0.0,0.0,0.56,0.56,2.25,9.56,,,Nike,1983-02-08
+2022,Mark-Anthony Kaye,Canada,MF,Toronto,53,14.0,1.0,0.0,0.0,0.0,0.0,3.0,4.5,,,Nike,1994-12-04
+2022,Jonathan Osorio,Canada,MF,Toronto,53,21.0,,,,,,,,,,Nike,1992-06-12
+2022,David Wotherspoon,Canada,MF,St. Johnstone,53,24.0,1.0,0.0,0.0,1.0,0.0,0.0,,,,Nike,1990-01-16
+2022,Liam Fraser,Canada,MF,KMSK Deinze,53,8.0,,,,,,,,,,Nike,1998-02-13
+2022,Ismael Kone,Canada,MF,Watford,53,15.0,3.0,0.0,0.0,0.0,0.0,0.0,0.86,,,Nike,2002-06-06
+2022,Lucas Cavallini,Canada,FW,Vancouver Whitecaps,53,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,1992-12-28
+2022,Junior Hoilett,Canada,FW,Reading,53,10.0,3.0,0.0,0.0,1.33,0.56,4.44,8.33,,,Nike,1990-06-05
+2022,Tajon Buchanan,Canada,FW,Club Brugge,53,11.0,3.0,0.0,1.0,6.21,1.03,0.34,5.17,,,Nike,1999-02-08
+2022,Cyle Larin,Canada,FW,Club Brugge,53,17.0,3.0,0.0,0.0,1.33,0.0,0.0,1.95,,,Nike,1995-04-17
+2022,Alphonso Davies,Canada,FW,Bayern Munich,53,19.0,3.0,1.0,0.0,6.0,1.0,0.67,6.67,,,Nike,2000-11-02
+2022,Jonathan David,Canada,FW,Lille,53,20.0,3.0,0.0,0.0,1.41,0.0,0.47,1.88,,,Nike,2000-01-14
+2022,Liam Millar,Canada,FW,Basel,53,23.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Nike,1999-09-27
+2022,Ike Ugbo,Canada,FW,Troyes,53,12.0,,,,,,,,,,Nike,1998-09-21
