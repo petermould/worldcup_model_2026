@@ -6,7 +6,7 @@ A Monte Carlo simulation engine that predicts the 2026 FIFA World Cup using a cu
 
 ## Why I Built This
 
-I work in football — specifically in goal-line technology — and I wanted to build something that combined my interest in the sport with the data and ML skills I'm developing. A World Cup predictor felt like the right project. It's got a clear output, real data you can argue about, and enough complexity under the hood to be interesting.
+I work in football and I wanted to build something that combined my interest in the sport with the data and ML skills I'm developing. A World Cup predictor felt like the right project for a few reasons! It's got a clear output, real data you can argue about, and enough complexity to be interesting.
 
 ---
 
