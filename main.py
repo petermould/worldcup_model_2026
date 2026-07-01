@@ -13,42 +13,18 @@ GROUPS = {
     'F': ['Netherlands', 'Sweden', 'Iraq', 'Uzbekistan'],
     'G': ['Belgium', 'Egypt', 'Iran', 'New Zealand'],
     'H': ['Spain', 'Cabo Verde', 'Uruguay', 'Saudi Arabia'],
-    'I': ['France', 'Norway', 'Senegal', 'Iraq'],
+    'I': ['France', 'Norway', 'Senegal', 'Algeria'],
     'J': ['Argentina', 'Austria', 'Algeria', 'Jordan'],
     'K': ['Colombia', 'Portugal', 'Congo DR', 'Uzbekistan'],
     'L': ['England', 'Croatia', 'Ghana', 'Panama'],
 }
 
-# Real R32 results already confirmed
-R32_CONFIRMED = ['Canada', 'Brazil', 'Paraguay', 'Morocco']
-
-# Remaining R32 matchups
-R32_REMAINING = [
-    ('Cote dIvoire', 'Norway'),
-    ('France', 'Sweden'),
-    ('Mexico', 'Ecuador'),
-    ('England', 'Congo DR'),
-    ('Belgium', 'Senegal'),
-    ('USA', 'Bosnia'),
-    ('Spain', 'Austria'),
-    ('Portugal', 'Croatia'),
-    ('Switzerland', 'Algeria'),
-    ('Colombia', 'Ghana'),
-    ('Argentina', 'Cabo Verde'),
-    ('Australia', 'Egypt'),
-]
-
 def get_best_third_place(group_results):
-    # Collect all third place teams across groups
     third_place = []
     for group_name, standings in group_results.items():
         team, stats = standings[2]
         third_place.append((team, stats['points'], stats['gd']))
-
-    # Sort by points then goal difference
     third_place.sort(key=lambda x: (x[1], x[2]), reverse=True)
-
-    # Return top 8 team names
     return [t[0] for t in third_place[:8]]
 
 def simulate_knockout_stage(teams):
@@ -66,6 +42,15 @@ def simulate_knockout_stage(teams):
         remaining = next_round
     return remaining[0]
 
+def print_results(win_counts, n):
+    results = sorted(win_counts.items(), key=lambda x: x[1], reverse=True)
+    print(f"\n{'Team':<20} {'Probability':>12}")
+    print("-" * 45)
+    for team, count in results:
+        prob = round((count / n) * 100, 1)
+        bar = '█' * int(prob / 2)
+        print(f"{team:<20} {prob:>10}%   {bar}")
+
 def mode1_pretournament(n=10000):
     print("\n" + "=" * 55)
     print("MODE 1 — PRE-TOURNAMENT SIMULATION")
@@ -78,22 +63,15 @@ def mode1_pretournament(n=10000):
         group_results = {}
         r32 = []
 
-        # Simulate all 12 groups
         for group_name, teams in GROUPS.items():
             standings = simulate_group(teams, ratings)
-            group_results[group_name] = {
-                standings[i][0]: standings[i][1] for i in range(4)
-            }
-            # Store as list of tuples for third place logic
             group_results[group_name] = standings
-            r32.append(standings[0][0])  # 1st place
-            r32.append(standings[1][0])  # 2nd place
+            r32.append(standings[0][0])
+            r32.append(standings[1][0])
 
-        # Get best 8 third place teams
         third_place_qualifiers = get_best_third_place(group_results)
         r32.extend(third_place_qualifiers)
 
-        # Simulate knockout
         champion = simulate_knockout_stage(r32)
         win_counts[champion] = win_counts.get(champion, 0) + 1
 
@@ -101,17 +79,31 @@ def mode1_pretournament(n=10000):
 
 def mode2_current_state(n=10000):
     print("\n" + "=" * 55)
-    print("MODE 2 — CURRENT TOURNAMENT STATE")
-    print(f"Simulating from Round of 32 {n:,} times")
-    print("Confirmed through: Canada, Brazil, Paraguay, Morocco")
+    print("MODE 2 — ROUND OF 32 STATE (fixed)")
+    print(f"Simulating from original R32 state {n:,} times")
     print("=" * 55)
+
+    R32_CONFIRMED = ['Canada', 'Brazil', 'Paraguay', 'Morocco']
+    R32_REMAINING = [
+        ('Cote dIvoire', 'Norway'),
+        ('France', 'Sweden'),
+        ('Mexico', 'Ecuador'),
+        ('England', 'Congo DR'),
+        ('Belgium', 'Senegal'),
+        ('USA', 'Bosnia'),
+        ('Spain', 'Austria'),
+        ('Portugal', 'Croatia'),
+        ('Switzerland', 'Algeria'),
+        ('Colombia', 'Ghana'),
+        ('Argentina', 'Cabo Verde'),
+        ('Australia', 'Egypt'),
+    ]
 
     win_counts = {}
 
     for _ in range(n):
         r16 = list(R32_CONFIRMED)
 
-        # Simulate remaining R32 matches
         for team_a, team_b in R32_REMAINING:
             w, _, _ = match_result(
                 ratings[team_a], ratings[team_b],
@@ -120,30 +112,49 @@ def mode2_current_state(n=10000):
             )
             r16.append(team_a if w == 'a' else team_b)
 
-        # Simulate knockout from R16 onwards
         champion = simulate_knockout_stage(r16)
         win_counts[champion] = win_counts.get(champion, 0) + 1
 
     print_results(win_counts, n)
 
-def print_results(win_counts, n):
-    results = sorted(win_counts.items(), key=lambda x: x[1], reverse=True)
-    print(f"\n{'Team':<20} {'Probability':>12}")
-    print("-" * 45)
-    for team, count in results:
-        prob = round((count / n) * 100, 1)
-        bar = '█' * int(prob / 2)
-        print(f"{team:<20} {prob:>10}%   {bar}")
+def mode3_live(confirmed, remaining, n=10000):
+    print("\n" + "=" * 55)
+    print("MODE 3 — LIVE TOURNAMENT STATE")
+    print(f"Simulating from current state {n:,} times")
+    print(f"Through: {', '.join(confirmed)}")
+    print("=" * 55)
+
+    win_counts = {}
+
+    for _ in range(n):
+        teams_through = list(confirmed)
+
+        for team_a, team_b in remaining:
+            w, _, _ = match_result(
+                ratings[team_a], ratings[team_b],
+                knockout=True,
+                team_a=team_a, team_b=team_b
+            )
+            teams_through.append(team_a if w == 'a' else team_b)
+
+        champion = simulate_knockout_stage(teams_through)
+        win_counts[champion] = win_counts.get(champion, 0) + 1
+
+    print_results(win_counts, n)
 
 if __name__ == "__main__":
     print("\nWorld Cup 2026 Simulator")
     print("1 — Pre-tournament simulation (full group stage)")
-    print("2 — Current tournament state (from Round of 32)")
-    choice = input("\nSelect mode (1 or 2): ")
+    print("2 — Round of 32 state (original)")
+    print("3 — Live tournament state (updates as results come in)")
+    choice = input("\nSelect mode (1, 2 or 3): ")
 
     if choice == '1':
         mode1_pretournament(n=10000)
     elif choice == '2':
         mode2_current_state(n=10000)
+    elif choice == '3':
+        from tournament_state import CONFIRMED_THROUGH, REMAINING_MATCHES
+        mode3_live(CONFIRMED_THROUGH, REMAINING_MATCHES, n=10000)
     else:
-        print("Invalid choice, please enter 1 or 2")
+        print("Invalid choice, please enter 1, 2 or 3")
