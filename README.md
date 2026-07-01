@@ -60,6 +60,15 @@ Not perfect — Croatia and Morocco were underrated despite reaching the semi-fi
 
 ---
 
+## Visualisations
+
+### Team Rating Breakdown
+![Rating Breakdown](charts/rating_breakdown.png)
+
+### Champion Probabilities
+![Champion Probabilities](charts/champion_probabilities.png)
+
+
 ## Project Structure
 
 data/
