@@ -32,15 +32,16 @@ Drawn knockout games go to penalties. Rather than a coin flip, each team has a h
 
 ---
 
-## Two Simulation Modes
+## Three Simulation Modes
 
 Mode 1 — Pre-tournament
 Simulates everything from scratch. All 12 groups play out, the best third-place teams qualify, then the full knockout bracket runs. Useful for pre-tournament predictions.
 
-Mode 2 — Current state
-Locks in real results from the tournament so far and simulates everything still to be played. Updated for the 2026 World Cup as it happens.
+Mode 2 — Round of 32
+This simulates the Round of 32 all the way until the winner with predicted probabilities.
 
----
+Mode 3 - Real time simulation
+This is the Live setting. All the real-time results are updated by me and the model will give live feedback on probabilities on the remaining teams left.
 
 ## Backtesting
 
