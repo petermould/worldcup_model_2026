@@ -1,5 +1,4 @@
-# Update this file after each match
-# Last updated: July 1 2026
+# Last updated: July 2 2026
 
 CONFIRMED_THROUGH = [
     'Canada',
@@ -9,15 +8,15 @@ CONFIRMED_THROUGH = [
     'France',
     'Norway',
     'Mexico',
+    'England',
+    'Belgium',
+    'USA',
+    'Portugal',
+    'Switzerland',
+    'Spain',
 ]
 
 REMAINING_MATCHES = [
-    ('England', 'Congo DR'),
-    ('Belgium', 'Senegal'),
-    ('USA', 'Bosnia'),
-    ('Spain', 'Austria'),
-    ('Portugal', 'Croatia'),
-    ('Switzerland', 'Algeria'),
     ('Australia', 'Egypt'),
     ('Argentina', 'Cabo Verde'),
     ('Colombia', 'Ghana'),
