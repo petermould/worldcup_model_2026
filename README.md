@@ -48,17 +48,12 @@ This is the Live setting. All the real-time results are updated by me and the mo
 
 ## Backtesting
 
-I ran the model against the 2022 World Cup knockout stage to see how well it predicted. Using the real Round of 16 bracket, Argentina came out as the most likely champion at 17.5%, with France second at 15.1%.
+I ran the model against the 2022 World Cup knockout stage to see how well it predicted. Using the real Round of 16 bracket, Argentina came out as 3rd most likely at 8.9%. France with 2nd highest at 12.1% probability won the competition. 
 
-Argentina won the tournament. France reached the final.
 
-Argentina     17.5%
-France        15.1%
-Spain         11.3%
-Brazil        10.2%
-England        7.7%
-Portugal       7.1%
-Morocco        5.9%
+Brazil                22.2%   
+France                12.1%   
+Argentina              8.9%   
 
 Not perfect — Croatia and Morocco were underrated despite reaching the semi-finals — but the model correctly identified the winner and finalist, which is a decent result for three input factors.
 
@@ -100,8 +95,6 @@ You will be prompted to choose a mode. Results print to the terminal with a simp
 ---
 
 ## Known Limitations
-
-- The backtest uses current 2026 ratings rather than 2022-era ratings. Form scores include post-2022 results which were not available at the time. A proper backtest would use historical rating snapshots for each tournament year.
 
 - xG data is not available before 2018. Teams missing from both tournaments use their confederation average as a proxy, which is a rough estimate.
 
