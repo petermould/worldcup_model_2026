@@ -115,9 +115,23 @@ You will be prompted to choose a mode. Results print to the terminal with a simp
 
 ---
 
+## 2026 World Cup Backtest
+
+Once the 2026 tournament finished, I scored the model's win probabilities against all 32 real knockout matches (Round of 32 through the Final) to check calibration, not just accuracy.
+
+- **Correct favourite picked:** 24/32 (75.0%)
+- **Brier score:** 0.186 (0 = perfect, 0.25 = coin-flip guessing)
+- **On confident calls only** (excluding 7 matches within 4 points of 50/50): 20/25 correct (80.0%)
+
+Strongest at the middle rounds — Quarter-finals went 4/4, Round of 32 was 13/16 — where xG and market value gaps between teams are real and measurable. Weakest at the business end: Semi-finals, Final and third-place all scored around coin-flip level, largely because by that stage every team left is genuinely close in quality (the Final gave Spain 49.3%, and Spain won 1-0 in extra time). The third-place playoff was the one true outlier (worse than guessing) — squad rotation and motivation there sit outside what the model can capture.
+
+Biggest misses (Paraguay over Germany, Norway over Brazil, Switzerland over Colombia, Mexico over Ecuador) were mostly penalty shootouts or teams on an in-tournament form spike — Norway's Haaland-driven run being the clearest example of something a backward-looking rating can't see coming.
+
 ## What I Would Improve Next
 
+- Add an in-tournament form signal — rolling xG over-performance from a team's own matches this tournament, to catch runs like Norway's that a pre-tournament rating misses
 - Source qualifying campaign xG for the 21 teams currently on confederation averages
 - Add recency weighting so 2022 counts more than 2018 in the xG calculation
+- Model home advantage for co-host nations
 - Build a Streamlit dashboard so the output is visual rather than terminal text
-- Run a proper weight optimisation using grid search across backtested tournaments
+- Run a proper weight optimisation using grid search across backtested tournaments (2022 and 2026 both now available)
